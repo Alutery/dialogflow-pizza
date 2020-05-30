@@ -1,0 +1,92 @@
+{
+  "id": "8a5e1934-af2a-49a7-835b-cf09c5348678",
+  "name": "pizzeria.order.pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 7
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7975d3e4-085a-4e22-b315-7bbed2fa7435",
+          "required": true,
+          "dataType": "@pizza-type",
+          "name": "pizza-type",
+          "value": "$pizza-type",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какую именно пиццу Вы желаете?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "95f0f9fd-3d75-46ad-8849-08d7cc62cac4",
+          "required": true,
+          "dataType": "@pizza-size",
+          "name": "pizza-size",
+          "value": "$pizza-size",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого размера пиццу $pizza-type Вы желаете?  (20см - маленькая, 31 см - средняя, 36 см  - большая)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a75fa237-7af2-4fd9-8ca2-03b26e00f1b9",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук добавить в заказ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

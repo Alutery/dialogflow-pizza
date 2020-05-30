@@ -1,0 +1,137 @@
+[
+  {
+    "id": "3b07fdb0-9654-42e9-a699-a6f635d93db1",
+    "data": [
+      {
+        "text": "это верно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2edac05-e373-4108-a593-4f4adf467b6c",
+    "data": [
+      {
+        "text": "верно",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75cbb212-fa60-42a5-847a-eb2f2152b88a",
+    "data": [
+      {
+        "text": "конечно",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecefbc98-4078-473b-94e8-b33eea49ddb2",
+    "data": [
+      {
+        "text": "подтверждаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7887fcb4-5bd4-4361-960d-3e5cc7ebddca",
+    "data": [
+      {
+        "text": "не возражаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24db5357-0682-46a5-b246-ad93bf5700cf",
+    "data": [
+      {
+        "text": "разумеется",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25b20790-b757-4947-814e-cb62482f7f68",
+    "data": [
+      {
+        "text": "точно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "710ada66-f742-49da-80f9-767fc5d2b154",
+    "data": [
+      {
+        "text": "да",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cee2a206-b2ae-4333-b6cc-d4a9a1dcc17b",
+    "data": [
+      {
+        "text": "сделай это",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cc5ff42-9fed-4c76-a66b-709640e41c2f",
+    "data": [
+      {
+        "text": "я согласен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5425555-a07b-47fa-8759-7724e19fe832",
+    "data": [
+      {
+        "text": "меня устраивает",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

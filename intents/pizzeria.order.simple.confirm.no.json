@@ -1,0 +1,33 @@
+{
+  "id": "c429ea14-0716-41c3-b3ef-29c480dfe738",
+  "name": "pizzeria.order.simple.confirm.no",
+  "auto": true,
+  "contexts": [
+    "item-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Что бы вы хотели изменить?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

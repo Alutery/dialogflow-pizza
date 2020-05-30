@@ -1,0 +1,96 @@
+{
+  "id": "c7240966-490b-452f-95c9-5bb9754417bf",
+  "name": "pizzeria.order.salad_options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "item-params-confirm",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "item-params",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "salad_options",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27976b62-9bc6-4c70-934a-c323d66459a6",
+          "required": true,
+          "dataType": "@salad_options",
+          "name": "item-params",
+          "value": "$item-params",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "13aa9dcc-f16e-4f3d-9402-2f86c61d4439",
+          "required": true,
+          "dataType": "@salad_options_type",
+          "name": "param",
+          "value": "$param",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой соус добавить?\n(соус цезарь, соус бальзамик, без соуса или без лука)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "86ce8f97-a954-476d-9911-33a42aa8cd3f",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item-params ($param, $amount шт.).\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

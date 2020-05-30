@@ -1,0 +1,73 @@
+{
+  "id": "4dc822a2-df75-47d2-91db-31c7e487d286",
+  "parentId": "acbac0a3-0d81-4781-8a57-56aa46d44b0c",
+  "rootParentId": "0a9981c5-1dd1-4993-a837-43909331b8cf",
+  "name": "pizza.order.constructor",
+  "auto": true,
+  "contexts": [
+    "pizzaorderstart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.pizzaorderstart-custom",
+      "affectedContexts": [
+        {
+          "name": "pizzaorderconstructor-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Вы перешли в конструктор пиццы!",
+            "Попробовали все наше меню и хотите разнообразия?\nСпециально для Вас у нас появился конструктор пиццы, соберите свой шедевр и отведайте его вместе со своей семьей или друзьями!"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Давайте начнем с теста. Какое предпочтете: тонкое или пышное?",
+            "Давайте начнем с теста. Какое желаете: тонкое или пышное?"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "title": "Выберите тип теста (диаметр 36 см)",
+          "replies": [
+            "тонкое",
+            "пышное"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Давайте начнем с теста. Какое предпочтете: тонкое или пышное?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

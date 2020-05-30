@@ -1,0 +1,75 @@
+[
+  {
+    "id": "8ac77635-cdd9-4e65-be48-aa298e34413c",
+    "data": [
+      {
+        "text": "фрукты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6d2ccba-76ba-4cd5-93a5-f1ff2223ea51",
+    "data": [
+      {
+        "text": "овощи",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "142ab349-9fcc-48bf-a350-90037867b324",
+    "data": [
+      {
+        "text": "какие есть фрукты?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5434e28-08ed-494b-80d4-75368f26cae0",
+    "data": [
+      {
+        "text": "какие есть Овощи и фрукты?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6cf490d-9c8b-4336-9497-de81b8787e9a",
+    "data": [
+      {
+        "text": "какие есть овощи?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f477ab0c-3dcd-45c9-9a7e-02b9847a868b",
+    "data": [
+      {
+        "text": "Овощи и фрукты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

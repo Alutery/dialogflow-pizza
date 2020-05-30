@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ef2b8e80-e28c-4dc3-a64a-b53b2f2ed50a",
+    "data": [
+      {
+        "text": "не согласен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6403fae0-d03a-4326-a2d1-7f6889cb72f7",
+    "data": [
+      {
+        "text": "не верно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e967440e-108f-4628-a378-f13cd357e2b8",
+    "data": [
+      {
+        "text": "нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

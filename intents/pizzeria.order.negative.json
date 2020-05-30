@@ -1,0 +1,47 @@
+{
+  "id": "0ceb11d8-6b54-475f-90cf-752d81cdd682",
+  "name": "pizzeria.order.negative",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f50a7dd-3efe-4ad6-8415-273a023c88df",
+          "required": false,
+          "dataType": "@anti-pizza-type",
+          "name": "anti-pizza-type",
+          "value": "$anti-pizza-type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "К сожалению, у нас нет $anti-pizza-type",
+            "Мне жаль, но у нас нет $anti-pizza-type"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

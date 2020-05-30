@@ -1,0 +1,62 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "Я виртуальный ассистент пиццерии Vivat Pizza :)"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "Нашей пиццерии уже целых 7 лет!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Ты просто голодный(((  Закажи пиццу!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Ты просто голодный(((  Закажи пиццу!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Я работаю над этим"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Ой, мне приятно это слышать"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Я виртуальный ассистент пиццерии Vivat Pizza или бот помощник"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "Все Ваши претензии и замечания вы можете отправить на наш почтовый адрес email.gmail.com"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "Хах))) Я рад, что у вас хорошее настроение. Как насчет пиццы?"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "Надеюсь вы удивлены меню нашей пиццерии :3"
+    ]
+  }
+]

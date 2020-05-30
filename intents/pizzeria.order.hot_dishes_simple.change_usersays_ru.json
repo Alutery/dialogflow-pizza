@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c927b87e-7766-4263-90a0-8f056c2e0255",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bff88fe3-2269-4258-802d-32d2978d7351",
+    "data": [
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ab9e66-d6b1-4c10-b445-8839afbb14a7",
+    "data": [
+      {
+        "text": "лучше ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda1e80a-4e5f-4049-be3b-0fcc0664e896",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6195e9ab-df0c-4142-bcac-5906d4c0e9ec",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c159f7f2-af7e-4f38-b434-9dc6f302a903",
+    "data": [
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9710a28-4982-43d0-8b4c-16cfb65cb39a",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b637126f-aa9a-49f5-9167-a330671edda9",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

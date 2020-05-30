@@ -1,0 +1,57 @@
+{
+  "id": "ade5907d-7d7c-4e3c-9a3f-7d1c8ea126a5",
+  "name": "pizzeria.order.courier.address - no",
+  "auto": true,
+  "contexts": [
+    "courier",
+    "delivery",
+    "delivery-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaordercourier.pizzeriaordercourier-custom.pizzeriaordercourieraddress-no",
+      "affectedContexts": [
+        {
+          "name": "pizzeriaordercourieraddress-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "courier",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "change",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Что хотетите изменить?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

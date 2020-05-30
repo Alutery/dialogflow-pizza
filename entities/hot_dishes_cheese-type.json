@@ -1,0 +1,9 @@
+{
+  "id": "6ba3aa5f-6f83-46b7-9cdd-96f15b309363",
+  "name": "hot_dishes_cheese-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

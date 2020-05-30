@@ -1,0 +1,9 @@
+{
+  "id": "f3b505e6-c7df-4655-93e5-c0bbe33ccae0",
+  "name": "drink_options_size",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

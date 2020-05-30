@@ -1,0 +1,90 @@
+{
+  "id": "882022cb-bb5b-43af-9eab-eacbae462a1c",
+  "name": "pizzeria.order.hot_food_options.change",
+  "auto": true,
+  "contexts": [
+    "hot_food_options",
+    "item-params"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "hot_food_options",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item-params",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item-params-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "52631c6b-21f8-49a5-9136-fd7f67937814",
+          "required": false,
+          "dataType": "@hot_food_options",
+          "name": "item-params",
+          "value": "$item-params",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item-params.item-params",
+          "isList": false
+        },
+        {
+          "id": "95429851-abc6-48a9-84a0-f97700cde9d7",
+          "required": false,
+          "dataType": "@hot_food_options-type",
+          "name": "param",
+          "value": "$param",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item-params.param",
+          "isList": false
+        },
+        {
+          "id": "7be0b4f6-cb68-4e9d-ae11-ca18f189905f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item-amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $item-params ($param, $amount шт.).\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

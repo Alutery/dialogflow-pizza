@@ -1,0 +1,185 @@
+[
+  {
+    "id": "0fd35610-7546-4c72-85df-cdcd843b16d4",
+    "data": [
+      {
+        "text": "хочу оплатить ",
+        "userDefined": false
+      },
+      {
+        "text": "картой",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abf4b326-9e35-446f-bb26-03bf0c6d9652",
+    "data": [
+      {
+        "text": "Оплата при получении наличными",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfae923a-db94-41e8-9a12-953b1baf3da4",
+    "data": [
+      {
+        "text": "к ",
+        "userDefined": false
+      },
+      {
+        "text": "5 дня",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f294a30-f192-4cda-ba0f-9750890d1ffe",
+    "data": [
+      {
+        "text": "привезите ",
+        "userDefined": false
+      },
+      {
+        "text": "к",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a740b38f-001d-4da2-8c34-7efd8e618cdd",
+    "data": [
+      {
+        "text": "полдень",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73285194-1252-4acb-b672-3ff1bdcf721d",
+    "data": [
+      {
+        "text": "23 часа",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3560b2af-3edb-41aa-8586-3dd376a1fb12",
+    "data": [
+      {
+        "text": "23:35",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4617b73c-7ca1-465f-9ed4-e98d11c8e0eb",
+    "data": [
+      {
+        "text": "время ",
+        "userDefined": false
+      },
+      {
+        "text": "доставки",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "23:35",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16978543-eacc-4ea8-9752-cd8d312685ee",
+    "data": [
+      {
+        "text": "пришлите",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "Карла Маркса 65/2",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ecb624b-7297-44bc-a0e6-d7396f54f6f7",
+    "data": [
+      {
+        "text": "ул Армейская 18",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

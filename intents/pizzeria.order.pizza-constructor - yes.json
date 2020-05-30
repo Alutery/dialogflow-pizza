@@ -1,0 +1,34 @@
+{
+  "id": "052ae5cb-35a6-44b9-b251-9e446ba253d0",
+  "name": "pizzeria.order.pizza-constructor - yes",
+  "auto": true,
+  "contexts": [
+    "pizza-constructor"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderpizza-constructor.pizzeriaorderpizza-constructor-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Вы можете добавить мясные ингредиенты, грибы, овощи / фрукты, морепродукты и доп. сыры\n(заново введете ингредиенты, если хотите их изменить в категории)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

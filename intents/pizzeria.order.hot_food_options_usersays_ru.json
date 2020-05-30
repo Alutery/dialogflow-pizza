@@ -1,0 +1,244 @@
+[
+  {
+    "id": "58e4da19-4a53-450c-b583-b4ec7688e342",
+    "data": [
+      {
+        "text": "две",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе Миньон",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d8c0fc6-4ee5-48b3-aa17-5db0cac2f92c",
+    "data": [
+      {
+        "text": "Филе миньон",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки ",
+        "userDefined": false
+      },
+      {
+        "text": "Rare",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23cffd35-f637-4549-8983-e6b9a4961d3d",
+    "data": [
+      {
+        "text": "Филе миньон",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36462b24-62be-4a1b-b42a-063aa1ecc75f",
+    "data": [
+      {
+        "text": "Филе миньон new",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Rare",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3c6d9f0-e4c5-48b2-b45f-75648aa3302e",
+    "data": [
+      {
+        "text": "заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе миньон new",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Rare",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82630139-0162-4f27-b528-f886b5ce6b8e",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе миньон new",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "прожарка Well Done",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "446bb418-994e-4a3d-93dd-d0e37de05fec",
+    "data": [
+      {
+        "text": "заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "Медальоны \"на испанский манер",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": " \"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3197209e-eebd-45b8-b1da-f3ecac3fb0f7",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Медальоны \"на испанский манер",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcc0e42a-54da-4480-8816-fec74983673f",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе миньон new",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33791e1a-38fa-41de-86ea-b350ab1f43c5",
+    "data": [
+      {
+        "text": "Филе миньон new",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

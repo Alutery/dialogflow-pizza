@@ -1,0 +1,196 @@
+[
+  {
+    "id": "d602660f-4b00-4506-9b7d-40ef0894165a",
+    "data": [
+      {
+        "text": "давай супчик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "843c6a10-0f31-4eda-b14a-b095dd877017",
+    "data": [
+      {
+        "text": "супец",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f49c4eeb-53d2-4437-ac06-5eafdd911423",
+    "data": [
+      {
+        "text": "хочу суп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b05c3af-0785-4b39-9d95-ad9499fbccf3",
+    "data": [
+      {
+        "text": "добавьте суп в заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "559f0335-6d15-4b56-88e8-395b8e8085fa",
+    "data": [
+      {
+        "text": "добавить суп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d1a6698-ec58-4f07-8435-e97aac085fd8",
+    "data": [
+      {
+        "text": "какие супы у вас есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bff2af0-21a1-4e78-acb2-a5b7ed857a75",
+    "data": [
+      {
+        "text": "хочу заказать суп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a77d9ddc-a351-48db-b85f-cd264828affc",
+    "data": [
+      {
+        "text": "заказ супа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b3cfef4-226b-46f1-8ba5-97de30c49173",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ваших ",
+        "userDefined": false
+      },
+      {
+        "text": "супов",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "252d4674-a70e-4d5a-9e06-8cb6475cb1ff",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "супов",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65c01a1f-b1cf-4aef-9c7e-77af9207afc5",
+    "data": [
+      {
+        "text": "какие есть супы в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55634bb4-5d24-41f0-b028-c0cdd5c1f48d",
+    "data": [
+      {
+        "text": "я хочу суп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8861eac5-0b5b-4597-95f7-df49d576c781",
+    "data": [
+      {
+        "text": "суп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97c3d023-8455-483a-ba3c-56cf7b35cd19",
+    "data": [
+      {
+        "text": "какие есть супы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

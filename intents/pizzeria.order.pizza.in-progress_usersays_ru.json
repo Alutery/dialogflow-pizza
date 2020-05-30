@@ -1,0 +1,142 @@
+[
+  {
+    "id": "af0e9a7a-be38-4981-9d1b-170fd21e3ba7",
+    "data": [
+      {
+        "text": "большую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8add3ee-4779-40cc-86d1-8a2cfd13dd41",
+    "data": [
+      {
+        "text": "маленькую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46519d7b-0ffd-4fbb-9ce1-03639269460c",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95f08274-5370-4331-84fb-40f2a9d54871",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59cd5b51-60a2-4934-b481-47764cbe6e5d",
+    "data": [
+      {
+        "text": "только ",
+        "userDefined": false
+      },
+      {
+        "text": "одну",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c3fe277-51ab-4bac-b9d6-902289a86a80",
+    "data": [
+      {
+        "text": "три",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3ae033a-f277-4442-a570-ff28d5c1bfe0",
+    "data": [
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " плиз",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90fd9a5f-01b8-471c-9354-13d8966440d2",
+    "data": [
+      {
+        "text": "одну",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " пжл",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

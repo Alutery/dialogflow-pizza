@@ -1,0 +1,46 @@
+{
+  "id": "0a9981c5-1dd1-4993-a837-43909331b8cf",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "speech": "Привет! Я виртуальный ассистент пиццерии Vivat Pizza. Хотели бы вы сделать у нас заказ или изучить меню?"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Привет! Я виртуальный ассистент пиццерии Vivat Pizza. Хотели бы вы сделать у нас заказ или изучить меню?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

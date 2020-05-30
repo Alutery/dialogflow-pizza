@@ -1,0 +1,78 @@
+{
+  "id": "61054745-db8c-462b-9f42-762ebcf822ea",
+  "name": "pizzeria.order.salad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "salad",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e4cf810-f8bb-498a-ba67-603ce5447aa6",
+          "required": true,
+          "dataType": "@salad_simple",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2cecc755-ae38-4a81-a5b1-c3b755c73184",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item ($amount шт.). Все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

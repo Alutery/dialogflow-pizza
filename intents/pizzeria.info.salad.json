@@ -1,0 +1,31 @@
+{
+  "id": "d721aa3a-c18e-49a0-b993-0ede60042184",
+  "name": "pizzeria.info.salad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Мы можем вам предложить данные позиции:\n\nСалат с креветками и авокадо (535 руб.)\nСалат с куриной печенью (435 руб.)\nЦезарь с тигровыми креветками (495 руб.)\nЦезарь с цыплёнком (395 руб.)\nСалат Греческий (415 руб.)\nОливье с копченым лососем (337 руб.)\nСалат Априори (387 руб.)\nСалат с морепродуктами  (557 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

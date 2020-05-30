@@ -1,0 +1,9 @@
+{
+  "id": "a5dc91cf-cabf-495d-a358-1cc9f9e0badd",
+  "name": "meat_ingredients",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

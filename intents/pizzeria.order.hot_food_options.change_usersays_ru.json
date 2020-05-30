@@ -1,0 +1,186 @@
+[
+  {
+    "id": "bbfdba70-b5ea-439a-80b0-90d9106de2cf",
+    "data": [
+      {
+        "text": "лучше ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdd0d064-5844-4773-b60e-ec472ebebbc7",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "десять",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a966b83b-632a-4488-ae1d-ac216f155baa",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c918bb98-5030-441c-b889-aac667b61a7f",
+    "data": [
+      {
+        "text": "поменять на прожаркау ",
+        "userDefined": false
+      },
+      {
+        "text": "Medium",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5da8deda-b156-4ae6-8197-692809dacf55",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "прожаркау Medium",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b9cdd22-e837-495a-9e26-a4b6eb93e58b",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "прожарку Medium",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ecd7113-adce-4c81-baa2-57b88a922d22",
+    "data": [
+      {
+        "text": "прожарка Medium",
+        "alias": "param",
+        "meta": "@hot_food_options-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b9dbcdf-b52d-44e1-b204-1c2e9d1cea53",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "Медальоны \"на испанский манер",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18837c1f-ed11-4ff9-9541-e87a54c94639",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Медальоны \"на испанский манер",
+        "alias": "item-params",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

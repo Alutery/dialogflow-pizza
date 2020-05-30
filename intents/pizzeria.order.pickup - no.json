@@ -1,0 +1,52 @@
+{
+  "id": "8528d489-6a42-4475-9b48-ad707cfe7f2f",
+  "name": "pizzeria.order.pickup - no",
+  "auto": true,
+  "contexts": [
+    "pickup",
+    "delivery",
+    "delivery-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderpickup.pizzeriaorderpickup-no",
+      "affectedContexts": [
+        {
+          "name": "pickup",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "change",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Что вы хотели бы изменить?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

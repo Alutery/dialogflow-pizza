@@ -1,0 +1,31 @@
+{
+  "id": "89a7c83f-6faf-40d9-896f-033c543f6091",
+  "name": "pizzeria.info.hot-food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Мы можем вам предложить данные позиции:\n\n- Фрикасе из цыпленка (397 руб.)\n- Ризотто с креветками и спаржей (615 руб.)\n- Стейк из лосося (697 руб.)\n- Куриная грудка по-дижонски (387 руб.)\n- Фахитос (757 руб.)\n- Ризотто с белыми грибами (395 руб.)\n- Куриные котлеты с пюре (315 руб.)\n- Филе миньон new (693 руб.)\n- Медальоны \"на испанский манер\" (697 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

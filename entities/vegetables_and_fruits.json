@@ -1,0 +1,9 @@
+{
+  "id": "5f2dd4f6-af46-40c6-a9ce-aaaa4c3557fa",
+  "name": "vegetables_and_fruits",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

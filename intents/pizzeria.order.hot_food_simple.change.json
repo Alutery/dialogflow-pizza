@@ -1,0 +1,77 @@
+{
+  "id": "2c7eee30-7107-4792-ad1b-7e806682a9ef",
+  "name": "pizzeria.order.hot_food_simple.change",
+  "auto": true,
+  "contexts": [
+    "item",
+    "hot_food_simple"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "hot_food_simple",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "292f4a54-1c05-4b38-8426-3b1e4b6182b6",
+          "required": false,
+          "dataType": "@hot_food_simple",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.item",
+          "isList": false
+        },
+        {
+          "id": "83b19f01-02c6-4a01-b38a-29debaebe0b5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $item ($amount шт.).\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

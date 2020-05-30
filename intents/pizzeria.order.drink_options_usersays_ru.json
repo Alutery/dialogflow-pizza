@@ -1,0 +1,204 @@
+[
+  {
+    "id": "a5f14d76-2242-4dcc-aa60-5953414f6f7b",
+    "data": [
+      {
+        "text": "большая",
+        "alias": "param",
+        "meta": "@drink_options_size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5ec7fcf-fb79-40d0-80c3-aa23db38a3d4",
+    "data": [
+      {
+        "text": "большая",
+        "alias": "param",
+        "meta": "@drink_options_size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d7af02b-1ee5-4911-aafd-5f78cf885ba3",
+    "data": [
+      {
+        "text": "7 up",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a9f549-b999-4fbd-bb3d-673ed4ad108c",
+    "data": [
+      {
+        "text": "7 up",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "205dc06c-e8c3-4e40-8d59-2ad53ad72cdd",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3406101b-da9e-41f8-a2c9-16ce8885ec86",
+    "data": [
+      {
+        "text": "большая",
+        "alias": "param",
+        "meta": "@drink_options_size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ae52013-94a6-4742-a0f3-77a03b07f072",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0.5 л",
+        "alias": "param",
+        "meta": "@drink_options_size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaff5f05-8463-462d-9a1a-92b0543867cc",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

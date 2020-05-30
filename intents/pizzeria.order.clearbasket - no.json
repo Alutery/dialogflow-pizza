@@ -1,0 +1,42 @@
+{
+  "id": "d3925b1a-222d-45ad-ba42-2512bab31c1b",
+  "parentId": "d6b5bd70-b887-4f84-9a8c-129819fa6343",
+  "rootParentId": "d6b5bd70-b887-4f84-9a8c-129819fa6343",
+  "name": "pizzeria.order.clearbasket - no",
+  "auto": true,
+  "contexts": [
+    "pizzeriaorderclearbasket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderclearbasket.pizzeriaorderclearbasket-no",
+      "affectedContexts": [
+        {
+          "name": "pizzeriaorderclearbasket-followup",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отмена"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

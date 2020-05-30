@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ea45b5d9-3138-48cc-9f54-e4998952cf4f",
+    "data": [
+      {
+        "text": "информация о доставке",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0adbe6da-580e-44a8-b993-b6d92d140ad0",
+    "data": [
+      {
+        "text": "какая есть доставка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09d9006b-1d30-4cb4-9fef-32905951e691",
+    "data": [
+      {
+        "text": "как вы можете доставить?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

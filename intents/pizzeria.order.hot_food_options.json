@@ -1,0 +1,96 @@
+{
+  "id": "1ee52526-7aeb-4fae-b45f-00b065b295a2",
+  "name": "pizzeria.order.hot_food_options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "item-params-confirm",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "hot_food_options",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-params",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "16a89807-d2d2-45a7-861c-a8cd41032326",
+          "required": true,
+          "dataType": "@hot_food_options",
+          "name": "item-params",
+          "value": "$item-params",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1fc68924-e1be-44ea-8b1a-32687f59e4bd",
+          "required": true,
+          "dataType": "@hot_food_options-type",
+          "name": "param",
+          "value": "$param",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какую прожарку предпочтете? \nMedium, Well Done или Rare?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ce2ac7d9-dcd1-4098-b7b1-f44307f2fdcb",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item-params ($param, $amount шт.).\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

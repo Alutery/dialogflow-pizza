@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8bdeef22-b136-4be5-b551-2cbf068e945a",
+    "data": [
+      {
+        "text": "заново",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd4e3b5c-e5a8-4971-9d31-0d25f952cc10",
+    "data": [
+      {
+        "text": "начать заново",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd8eaab7-ebe1-40d3-82de-5d3916b6b5a8",
+    "data": [
+      {
+        "text": "очистить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00e8719-bdb1-4220-af60-02617fdf4797",
+    "data": [
+      {
+        "text": "удалить",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " заказы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "440e5401-e9ae-4427-b5c9-955b316eab5b",
+    "data": [
+      {
+        "text": "опустошить корзину",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "191d9f92-5052-409b-b6bd-b23ec1c96670",
+    "data": [
+      {
+        "text": "очистить корзину",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

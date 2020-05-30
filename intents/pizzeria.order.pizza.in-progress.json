@@ -1,0 +1,96 @@
+{
+  "id": "cf177b09-8402-4d5c-b904-fa0b88657841",
+  "name": "pizzeria.order.pizza.in-progress",
+  "auto": true,
+  "contexts": [
+    "pizza"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "pizza-confirm",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "18629224-315e-4779-8bcc-8ed5e27db99f",
+          "required": true,
+          "dataType": "@pizza-size",
+          "name": "pizza-size",
+          "value": "$pizza-size",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого размера пиццу $pizza-type Вы желаете?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.pizza-size",
+          "isList": false
+        },
+        {
+          "id": "73a10158-2f73-48cb-b034-3ffe8318d310",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук добавить в заказ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.number",
+          "isList": false
+        },
+        {
+          "id": "aecca7cb-f029-4509-b689-cda2198ef4ef",
+          "required": true,
+          "dataType": "@pizza-type",
+          "name": "pizza-type",
+          "value": "$pizza-type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.pizza-type",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $number $pizza-type размера $pizza-size.\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

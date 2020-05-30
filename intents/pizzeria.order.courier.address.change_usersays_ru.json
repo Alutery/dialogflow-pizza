@@ -1,0 +1,377 @@
+[
+  {
+    "id": "aa81b0a0-dee8-4332-9394-4f6c423c7605",
+    "data": [
+      {
+        "text": "Обращайтесь ко мне \"",
+        "userDefined": false
+      },
+      {
+        "text": "хороший мужик",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "531a6410-7cb9-4694-b575-e2c9885fcf8a",
+    "data": [
+      {
+        "text": "мое имя ",
+        "userDefined": false
+      },
+      {
+        "text": "Максим Костерин",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8389c889-e942-41b4-b930-e81106ded79b",
+    "data": [
+      {
+        "text": "двое",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " человек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa244b78-6ae7-4a38-adb4-79415e6a3549",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "троих",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a085b786-ecf7-414b-8e29-cd1f8ba22583",
+    "data": [
+      {
+        "text": "адрес ",
+        "userDefined": false
+      },
+      {
+        "text": "ул Ленина 3 кв 122",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21bd4c56-e80d-4731-b117-0f03cb493176",
+    "data": [
+      {
+        "text": "Карла Маркса 65/2",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fee3af89-aa1e-4396-b091-70ab6a06169a",
+    "data": [
+      {
+        "text": "мой email ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df83c964-cf12-4994-b16f-c663458b7b3e",
+    "data": [
+      {
+        "text": "мой имейл ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0767254-b07d-4abe-9230-5b6b6d869a0f",
+    "data": [
+      {
+        "text": "879874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09e20814-d61f-45a0-bb64-08d8d0415939",
+    "data": [
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52745e60-0967-4db5-8023-fe00071e0725",
+    "data": [
+      {
+        "text": "мой телефон ",
+        "userDefined": false
+      },
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13a6297f-80ea-40b4-80bf-1ca517f035c2",
+    "data": [
+      {
+        "text": "поменяйте на оплату ",
+        "userDefined": false
+      },
+      {
+        "text": "картой",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "742a3e7e-6994-425f-973f-e9753fd48b7e",
+    "data": [
+      {
+        "text": "23:45",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d43425e-9947-49c9-92d7-597368c71275",
+    "data": [
+      {
+        "text": "к ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " часам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b580172c-4c92-4b5f-80fc-7161dd86fd8f",
+    "data": [
+      {
+        "text": "вернее",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пришлите",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "Карла Маркса 65/2",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0d8d47e-195e-4b66-8c30-2938b10501d2",
+    "data": [
+      {
+        "text": "пришлите",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "Карла Маркса 65/2",
+        "alias": "address",
+        "meta": "@sys.address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "729b3e2f-0155-48af-9721-6199e1346bc7",
+    "data": [
+      {
+        "text": "лучше давайте ",
+        "userDefined": false
+      },
+      {
+        "text": "наличкой",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b490adc-66ba-45c3-b9e7-479347b677e3",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " персоны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80415244-8dc0-4ca8-8ad3-5a4d3bc4aae7",
+    "data": [
+      {
+        "text": "хочу изменить заказ на ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " персоны",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "047d079d-a7fb-46ff-a1cf-0976c815548f",
+    "data": [
+      {
+        "text": "хочу оплатить ",
+        "userDefined": false
+      },
+      {
+        "text": "наличными",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

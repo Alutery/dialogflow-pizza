@@ -1,0 +1,112 @@
+[
+  {
+    "id": "273ee1cc-d3e5-48fb-9f06-575e31f77834",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d62a4b0e-2d4a-4d10-8ecb-ffeebfc817b7",
+    "data": [
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7df2532f-84ce-4f11-90d1-5cec00f01734",
+    "data": [
+      {
+        "text": "два",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургер «Цезарь»",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a25816d-7908-499c-b37b-ee7ed6c58ef7",
+    "data": [
+      {
+        "text": "Бургер с ягнёнком",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59effaa1-5c75-428f-b5ad-8013de307ef1",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургер с вишнёвым соусом",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a293363-c844-4294-9664-8796b6df6c1c",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургер с вишнёвым соусом",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

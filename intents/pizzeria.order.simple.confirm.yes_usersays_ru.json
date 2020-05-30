@@ -1,0 +1,101 @@
+[
+  {
+    "id": "3e7046d8-2e2d-435a-b48a-15df2b29bc5e",
+    "data": [
+      {
+        "text": "хорошо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1133bbca-f7a6-4d17-9dcb-fa7757f80c20",
+    "data": [
+      {
+        "text": "отлично",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3544d305-d18d-4aee-9325-4f6e14d8bd4b",
+    "data": [
+      {
+        "text": "конечно",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf130f78-9b67-4bea-b213-448aca0fa882",
+    "data": [
+      {
+        "text": "верно",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c62ee936-a5fb-4a39-a9d5-5538677c5769",
+    "data": [
+      {
+        "text": "подтверждаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebae26f8-1cf6-4cee-a851-f011cf744d11",
+    "data": [
+      {
+        "text": "вполне",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6c1ee08-1c78-494c-a194-64e440fad27f",
+    "data": [
+      {
+        "text": "все верно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01403218-8d88-411a-a675-bc5d09d7c4b4",
+    "data": [
+      {
+        "text": "да",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

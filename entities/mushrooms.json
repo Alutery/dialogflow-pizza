@@ -1,0 +1,9 @@
+{
+  "id": "c064dfbb-5cbe-434f-84c6-79ef8b6c3f49",
+  "name": "mushrooms",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

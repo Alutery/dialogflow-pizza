@@ -1,0 +1,9 @@
+{
+  "id": "04f2ef4d-336c-4b91-b8cf-b21c54b7e566",
+  "name": "seafood",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "a55e842b-e72e-4d16-8ad6-69b4f4cd044d",
+    "data": [
+      {
+        "text": "1",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b61ec70b-040c-4bd9-9f70-331547804223",
+    "data": [
+      {
+        "text": "три",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70bd6ee7-f57f-40c9-9f33-8c8ea457a693",
+    "data": [
+      {
+        "text": "добавить в корзину",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4af1967f-06b9-41c9-bce5-cbf5e9f2e4c5",
+    "data": [
+      {
+        "text": "конец",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "657c506c-5762-4c1a-b9b7-44ae65dde49b",
+    "data": [
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47dbe05e-6e9b-4ca0-9564-3076bf4de81c",
+    "data": [
+      {
+        "text": "хватит",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8a309b0-3b71-46a0-bafb-50e9a3a98c9b",
+    "data": [
+      {
+        "text": "хочу закончить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60c4dfc4-4890-4187-b115-e6dd7088fb39",
+    "data": [
+      {
+        "text": "не делай этого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9ac1369-6a44-4c23-9a58-49a6a1b8536f",
+    "data": [
+      {
+        "text": "спасибо нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f0b7b74-441e-431d-9a65-bd7f4e420ef4",
+    "data": [
+      {
+        "text": "нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "968c1721-c969-47f5-9b56-3a44ecf97ec0",
+    "data": [
+      {
+        "text": "я не хочу этого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "720a7a21-67b1-4d89-a4c1-c8f3e7b59694",
+    "data": [
+      {
+        "text": "не думаю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "966b0a43-d42f-498b-a9ea-a7fd4e75ff69",
+    "data": [
+      {
+        "text": "не согласен",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fe3399a-fb7e-4c8f-a6e6-d402a651bbaa",
+    "data": [
+      {
+        "text": "не интересует",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f177fa9d-c1e2-496e-9233-742c6b033489",
+    "data": [
+      {
+        "text": "определенно нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bd1077b-c240-4dc3-be94-4eba0097ffcc",
+    "data": [
+      {
+        "text": "да нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

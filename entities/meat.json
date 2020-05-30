@@ -1,0 +1,9 @@
+{
+  "id": "2333bbfe-02a6-4367-8812-906eab304f48",
+  "name": "meat",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

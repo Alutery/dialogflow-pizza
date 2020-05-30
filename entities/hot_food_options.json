@@ -1,0 +1,9 @@
+{
+  "id": "6403f0d3-4b15-4e48-8eba-00becdbc260a",
+  "name": "hot_food_options",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

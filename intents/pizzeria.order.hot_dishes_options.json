@@ -1,0 +1,114 @@
+{
+  "id": "4bbe92b5-a1f7-4f9b-a729-3f2d73f161f8",
+  "name": "pizzeria.order.hot_dishes_options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "item-params-confirm",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "item-params",
+          "parameters": {},
+          "lifespan": 7
+        },
+        {
+          "name": "hot_dishes_options",
+          "parameters": {},
+          "lifespan": 7
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0ed9cae2-23c1-46f3-96bb-d4dcb5fa2c53",
+          "required": true,
+          "dataType": "@hot_dishes_options",
+          "name": "item-params",
+          "value": "$item-params",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4f039686-9c4f-4137-b5c4-fc16df6446c3",
+          "required": true,
+          "dataType": "@hot_dishes_options_size",
+          "name": "param-add",
+          "value": "$param-add",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого объема?\n550 г\n370 г,\n260 г\n1100 г"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "64c9b153-417a-44db-994c-a3240c9d482c",
+          "required": true,
+          "dataType": "@hot_dishes_options_type",
+          "name": "param",
+          "value": "$param",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой соус добавить?\nбез Соуса\nсоус Карри\nсоус Дор Блю\nсоус Барбекю\nсоус Томатный Острый\nсоус Сырный"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7b510c78-d1c9-4c77-acd3-ae151cd70f20",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item-params ($param, $param-add, $amount шт.).\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

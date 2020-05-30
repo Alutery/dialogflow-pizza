@@ -1,0 +1,33 @@
+{
+  "id": "5ee39c67-ebe2-4d14-b3a1-e80510629dbf",
+  "name": "pizzeria.order.drink.confirm.no",
+  "auto": true,
+  "contexts": [
+    "drink-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Что бы вы хотели изменить?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

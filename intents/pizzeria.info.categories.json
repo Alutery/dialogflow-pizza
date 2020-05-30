@@ -1,0 +1,31 @@
+{
+  "id": "355f082c-c2cd-4be2-b119-42d7816d028e",
+  "name": "pizzeria.info.categories",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Мы можем вам предложить блюда и напитки следующих категорий:\n\n- пицца\n- бургеры NEW\n- супы\n- салаты\n- горячие закуски\n- горячие блюда\n- напитки\n\nА также можете воспользоваться нашим конструктором пиццы :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

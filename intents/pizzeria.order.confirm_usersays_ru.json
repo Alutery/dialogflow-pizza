@@ -1,0 +1,190 @@
+[
+  {
+    "id": "5f57b47a-033c-4cad-b9f4-69fa94895c75",
+    "data": [
+      {
+        "text": "оформи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59620a16-c80d-4733-b55b-9d7f59c73fa1",
+    "data": [
+      {
+        "text": "перейти к оформлению",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "33051a5b-85f6-4fb6-8b1a-f02190280513",
+    "data": [
+      {
+        "text": "больше ничего не надо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bf7f515-cb15-49d2-b396-8727c7068ee2",
+    "data": [
+      {
+        "text": "все",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0da454ce-191a-4e6f-926b-a788f42db32f",
+    "data": [
+      {
+        "text": "завершить заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85ff75a2-4af0-49ec-aa2b-88d9ed291eb4",
+    "data": [
+      {
+        "text": "закончить заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7add8e30-fd36-4061-a208-305b82a7987e",
+    "data": [
+      {
+        "text": "закончить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6ce648-7a0e-4b3a-b1a4-a9de15e16fa0",
+    "data": [
+      {
+        "text": "хочу офомить заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "37035532-bfa8-4de9-9c5b-cc2b750c01c2",
+    "data": [
+      {
+        "text": "оформляй заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e007f43-2e91-4482-a09d-b2603f696a72",
+    "data": [
+      {
+        "text": "самовывоз",
+        "alias": "delivery_type",
+        "meta": "@delivery_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b4a9087-e0ee-4349-b729-808f857faa35",
+    "data": [
+      {
+        "text": "оформить ",
+        "userDefined": false
+      },
+      {
+        "text": "самовывоз",
+        "alias": "delivery_type",
+        "meta": "@delivery_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7309ba82-a561-4801-96d0-3382798a6a7f",
+    "data": [
+      {
+        "text": "подтвердить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "616601e3-e872-4295-829a-5be79a23eb8d",
+    "data": [
+      {
+        "text": "оформить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6bcbb70-23ae-4969-a61b-578f89187e59",
+    "data": [
+      {
+        "text": "оформить заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcb9c9d8-3c62-4c59-abfc-cb6a8ad01b94",
+    "data": [
+      {
+        "text": "подтвердить заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "48fbf0bd-690a-47f8-9348-8040c2e9c2f8",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " человек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5de90d30-f56d-400f-9ef1-348d1bc21bc9",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "двоих",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ae3bd72-ff6d-4187-a600-fb94173bd229",
+    "data": [
+      {
+        "text": "двое",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " персон",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f557da3-15cc-4516-8bd1-9bf7788d2f45",
+    "data": [
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "264f2086-b2e4-4783-99c9-a60f032b30bf",
+    "data": [
+      {
+        "text": "мой email ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70a17773-598f-47cb-8fce-5bac8812fc90",
+    "data": [
+      {
+        "text": "мой имейл ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4db06e0a-85c3-4eda-b68b-0a9bbcfc09fa",
+    "data": [
+      {
+        "text": "879874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d1dbfe-d248-40cf-a447-fd237602a494",
+    "data": [
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37976187-96cf-42d1-8080-2d109402ec3b",
+    "data": [
+      {
+        "text": "Мытищи, ул. Воровского, д. 1",
+        "alias": "pickup_place",
+        "meta": "@pickup_place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c09d0c9-9164-46f1-be98-f2a7b4b60fef",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3709392-0f68-4771-af40-7b7079ab7cec",
+    "data": [
+      {
+        "text": "Сергей",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f003b7c-8df3-46dc-8d71-8a62d3e657e9",
+    "data": [
+      {
+        "text": "меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Сережа",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "82369e84-1409-4df0-addc-ab3a47a77704",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "оплатить наличными",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

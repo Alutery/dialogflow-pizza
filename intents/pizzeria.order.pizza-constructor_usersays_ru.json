@@ -1,0 +1,363 @@
+[
+  {
+    "id": "35e95816-2034-4166-ac6e-883aeaff8bb9",
+    "data": [
+      {
+        "text": "Хочу конструировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "735a788e-f554-4f8a-892c-cb1ce2acfef5",
+    "data": [
+      {
+        "text": "Активировать конструктор пиццы!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a510de74-d145-4d81-8f50-1164d57e5df0",
+    "data": [
+      {
+        "text": "Тунец",
+        "alias": "seafood",
+        "meta": "@seafood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e14b31a-554e-4e2c-8937-0ea60caddea0",
+    "data": [
+      {
+        "text": "брокколи",
+        "alias": "vegetables_and_fruits",
+        "meta": "@vegetables_and_fruits",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "оливки",
+        "alias": "vegetables_and_fruits",
+        "meta": "@vegetables_and_fruits",
+        "userDefined": false
+      },
+      {
+        "text": " и ",
+        "userDefined": false
+      },
+      {
+        "text": "рикотту",
+        "alias": "souce",
+        "meta": "@souce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0582b66-98c3-4149-a372-e75000b32d46",
+    "data": [
+      {
+        "text": "брокколи",
+        "alias": "vegetables_and_fruits",
+        "meta": "@vegetables_and_fruits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b00c3696-fa7b-465a-8337-b62a1bb5215d",
+    "data": [
+      {
+        "text": "перейти в конструктор",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e50c7f85-44b0-4774-88f0-a1d0806b356c",
+    "data": [
+      {
+        "text": "конструктор пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a540217-d77e-46cc-91c5-b30145c08884",
+    "data": [
+      {
+        "text": "конструктор",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90ccbd4f-5beb-4d10-a622-b31dc19a6885",
+    "data": [
+      {
+        "text": "тонкое",
+        "alias": "dough",
+        "meta": "@dough",
+        "userDefined": false
+      },
+      {
+        "text": " тесто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f18d6cf9-5247-4e93-b8d8-e97f8ae9ff39",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "тонком",
+        "alias": "dough",
+        "meta": "@dough",
+        "userDefined": false
+      },
+      {
+        "text": " тесте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5641bdc6-63e5-464d-ae82-d1266fb29de9",
+    "data": [
+      {
+        "text": "Дор Блю",
+        "alias": "cheese",
+        "meta": "@cheese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c25741ad-fa99-4442-8636-d413c7298b0b",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "Дор Блю",
+        "alias": "cheese",
+        "meta": "@cheese",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28e1145b-4725-4e6d-b45b-64b6a0c04690",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "креветки",
+        "alias": "seafood",
+        "meta": "@seafood",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "135e11ac-4c3b-4a00-82a8-6e4e5c93774b",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "брокколи",
+        "alias": "vegetables_and_fruits",
+        "meta": "@vegetables_and_fruits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f0c1bd-d550-4c78-979b-d10683eded54",
+    "data": [
+      {
+        "text": "Грибной микс",
+        "alias": "mushrooms",
+        "meta": "@mushrooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "589a5f52-4275-4da7-8620-ffa1469e6525",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "Грибной микс",
+        "alias": "mushrooms",
+        "meta": "@mushrooms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1eb04fcc-9f62-448c-8a2e-88235c3242aa",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "ветчину",
+        "alias": "meat_ingredients",
+        "meta": "@meat_ingredients",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80753b6a-d3dd-40f3-8c21-01cb35fdfdea",
+    "data": [
+      {
+        "text": "добавьте ",
+        "userDefined": false
+      },
+      {
+        "text": "Томатный",
+        "alias": "souce",
+        "meta": "@souce",
+        "userDefined": true
+      },
+      {
+        "text": " соус",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "030128e4-1956-4ff8-8836-d3f4982a54ba",
+    "data": [
+      {
+        "text": "соус ",
+        "userDefined": false
+      },
+      {
+        "text": "Рикотта",
+        "alias": "souce",
+        "meta": "@souce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37d3b7e1-d757-430f-ab29-ccc911aa496f",
+    "data": [
+      {
+        "text": "пышное",
+        "alias": "dough",
+        "meta": "@dough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6221bbc4-3c5f-4db5-a3b1-e3529ad17adf",
+    "data": [
+      {
+        "text": "хочу пиццу",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " на ",
+        "userDefined": false
+      },
+      {
+        "text": "пышном",
+        "alias": "dough",
+        "meta": "@dough",
+        "userDefined": false
+      },
+      {
+        "text": " тесте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

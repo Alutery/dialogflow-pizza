@@ -1,0 +1,67 @@
+[
+  {
+    "id": "750d29a0-2b4f-4cc6-b532-869efdebedd6",
+    "data": [
+      {
+        "text": "Хочу горячего",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "480a525b-9a8e-40da-ab3e-3e9f49c281e4",
+    "data": [
+      {
+        "text": "хочу горячие блюда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "297beaf7-c1fb-4039-a7cc-53065eb3decb",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " горячих блюд",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de2a8edc-3a77-4df6-9072-4da78a6907cc",
+    "data": [
+      {
+        "text": "какие есть горячие блюда?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69cf4b4c-cc0e-465c-a367-00dd83775f76",
+    "data": [
+      {
+        "text": "горячие блюда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "6e57f48d-f1c6-424f-879f-3a55ea705b7c",
+  "name": "pickup_place",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

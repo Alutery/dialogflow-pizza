@@ -1,0 +1,96 @@
+[
+  {
+    "id": "7cccf5ca-0ae6-45c8-9186-cbc75c4d27be",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " бургеров",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25fc65d5-485d-4d20-b39b-3048499b9f68",
+    "data": [
+      {
+        "text": "какие есть ",
+        "userDefined": false
+      },
+      {
+        "text": "бургеры",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fec377ff-ce09-4a96-8c40-cfe04fb88755",
+    "data": [
+      {
+        "text": "хочу бургер",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98afbc8f-12a5-4449-b2dd-36e006d685ce",
+    "data": [
+      {
+        "text": "какие есть ",
+        "userDefined": false
+      },
+      {
+        "text": "бургеры",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f83d64e2-2544-467f-96f7-3161e58c8a17",
+    "data": [
+      {
+        "text": "бургер",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

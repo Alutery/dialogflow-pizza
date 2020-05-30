@@ -1,0 +1,170 @@
+{
+  "id": "72defdbc-0d82-4345-b2a4-46567bf6514a",
+  "name": "pizzeria.info.price",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "price",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eb4040d9-5f0c-4472-8c02-a96b8d54391d",
+          "required": false,
+          "dataType": "@salad_simple",
+          "name": "salad_simple",
+          "value": "$salad_simple",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5b95c3d5-fa31-46f8-90a1-b50bf2c55008",
+          "required": false,
+          "dataType": "@salad_options",
+          "name": "salad_options",
+          "value": "$salad_options",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7df585d8-7406-4ffa-85c8-ed225fa828c5",
+          "required": false,
+          "dataType": "@soup",
+          "name": "soup",
+          "value": "$soup",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "9d7b94c3-0173-4538-8bb4-5f82b222c2b2",
+          "required": false,
+          "dataType": "@burger",
+          "name": "burger",
+          "value": "$burger",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1f32e830-1597-4790-8243-b51aff1414b6",
+          "required": false,
+          "dataType": "@drink_options",
+          "name": "drink_options",
+          "value": "$drink_options",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "95fc9d68-fffe-4b34-ab95-e79cd1bc9844",
+          "required": false,
+          "dataType": "@hot_dishes_simple",
+          "name": "hot_dishes_simple",
+          "value": "$hot_dishes_simple",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2081ea6d-4e50-4315-a8d9-8dddb2367350",
+          "required": false,
+          "dataType": "@hot_dishes_cheese",
+          "name": "hot_dishes_cheese",
+          "value": "$hot_dishes_cheese",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "61a8901f-0ce5-4906-ba55-eb9e47ad28bc",
+          "required": false,
+          "dataType": "@hot_dishes_options",
+          "name": "hot_dishes_options",
+          "value": "$hot_dishes_options",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7eda6f20-5232-4085-b1af-c8546fdaaad4",
+          "required": false,
+          "dataType": "@hot_food_options",
+          "name": "hot_food_options",
+          "value": "$hot_food_options",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "24362dad-99e4-4fb8-810d-c5f48d21706d",
+          "required": false,
+          "dataType": "@hot_food_simple",
+          "name": "hot_food_simple",
+          "value": "$hot_food_simple",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "da65465c-50e8-4eff-9f8d-b76e7a8f8aaf",
+          "required": false,
+          "dataType": "@pizza-type",
+          "name": "pizza-type",
+          "value": "$pizza-type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

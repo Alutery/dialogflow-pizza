@@ -1,0 +1,78 @@
+{
+  "id": "5f732aa9-b742-4a8f-969e-3b0ccedd798a",
+  "name": "pizzeria.order.hot_dishes_simple",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "hot_dishes_simple",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9a4e78b0-9cc0-4326-a51f-32cf6e42d3d6",
+          "required": true,
+          "dataType": "@hot_dishes_simple",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "beea9937-47a0-4f68-b47b-d2e00d61773e",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item. Все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "1c4f638c-cf21-410b-8889-795d2ba5dad2",
+    "data": [
+      {
+        "text": "три",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Стейка из лосося",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f33c826-9198-4f79-9957-788c1a0bf584",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "три",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Стейка из лосося",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f533b0c9-90b0-483c-9a6e-f3fde33e16cd",
+    "data": [
+      {
+        "text": "лучше ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "755e4319-8e1a-4741-94c3-dbd7ac6d656d",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10c13531-fd55-41e9-8617-0fc5a2e395f5",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "Стейк из лосося",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aab6492-b6c7-4986-862e-69fda62ce503",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea3dc713-7a01-49b6-90c1-b90ebf8f53cf",
+    "data": [
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

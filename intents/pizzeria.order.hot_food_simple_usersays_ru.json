@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0b6a5016-05cb-4473-b8be-64d4192e9755",
+    "data": [
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27eb765f-e756-4c09-880a-fc209872b3d8",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dce5a32-cf7d-46fc-8fa0-f27e4b73cd0b",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9be1b163-204f-422b-85ae-d517a839c3b7",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "865cf5a1-f92c-4a46-b960-4592775ae7db",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cf64bd2-a727-4580-8212-42003cc784d3",
+    "data": [
+      {
+        "text": "Ризотто с креветками и спаржей",
+        "alias": "item",
+        "meta": "@hot_food_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "2f23f52f-a242-4eac-883b-ec43f22b7b9c",
+  "name": "pizza.info.vegetables_and_fruits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Из овощей и фруктов в пиццу вы можете добавить:\n\nЛук карамелизированный (50 руб.)\nТоматы Черри (70 руб.)\nТоматы (50 руб.)\nЛук порей (50 руб.)\nКрасный лук (30 руб.)\nОгурцы маринованные (50 руб.)\nСалат микс (99 руб.)\nРепчтаый лук (30 руб.)\nБрокколи (70 руб.)\nОливки (50 руб.)\nКаперсы (70 руб.)\nПерец сладкий (70 руб.)\nАнанас (70 руб.)\nПерец Халапеньо (50 руб.)\nМаслины (50 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

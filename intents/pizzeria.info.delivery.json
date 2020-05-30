@@ -1,0 +1,45 @@
+{
+  "id": "c2d80138-1261-4ba0-aa83-84923204323a",
+  "name": "pizzeria.info.delivery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "speech": "Условия доставки:\nБесплатная доставка, работаем круглосуточно\nВ течении 30-45 мин ваш заказ будет у вас!"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "speech": "Варианты заказов:\n- Стандартная бесплатная доставка\n- Самовывоз\n- Доставка по времени"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Вы можете оформить доставку до дома либо самовывоз из следующий точек:\n- Измайлово\n- Ховрино\n- Мытищи\n- Хорошево-Мневники"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

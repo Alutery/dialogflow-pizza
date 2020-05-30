@@ -1,0 +1,270 @@
+[
+  {
+    "id": "7114c79f-2360-45e9-89bc-51d5bc673ee6",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "831cea63-1d97-4215-af65-142838a48889",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1981546e-b6f2-42dc-9fa9-541d0e0c4d06",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d701714-935b-44d9-9845-a58105043107",
+    "data": [
+      {
+        "text": "Салат Греческий",
+        "alias": "item-params",
+        "meta": "@salad_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "без соуса",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb2003b9-6532-42db-82fd-a722be6ab5ac",
+    "data": [
+      {
+        "text": "Салат Греческий",
+        "alias": "item-params",
+        "meta": "@salad_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "без соуса",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90153aef-824d-4894-87f6-cc72a0c4b14a",
+    "data": [
+      {
+        "text": "без лука",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06b71b44-ec23-4145-95eb-ab12da1be217",
+    "data": [
+      {
+        "text": "поменяйте на ",
+        "userDefined": false
+      },
+      {
+        "text": "бальзамик",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09197dcc-668c-4e11-8cc4-b8bbd82ecf84",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "соус цезарь",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a08ea44-4d89-4532-ad23-01674bcb3463",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "без лука",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ab457c1-0d74-4d24-9508-17de05ccfd19",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "соус цезарь",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Греческий",
+        "alias": "item-params",
+        "meta": "@salad_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3b10fc7-d536-4fa5-8370-ffa79e4cb4ed",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Греческий",
+        "alias": "item-params",
+        "meta": "@salad_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "без соуса",
+        "alias": "param",
+        "meta": "@salad_options_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dd5237dd-8a60-44f4-8483-7e30fde4a71e",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Греческий",
+        "alias": "item-params",
+        "meta": "@salad_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

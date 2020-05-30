@@ -1,0 +1,84 @@
+{
+  "id": "12b92939-45f8-4de4-bce6-f1fc0f69a4d1",
+  "name": "pizzeria.order.drink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "drink",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2af5e6b7-b7ed-4573-827f-67f4df0c3c2e",
+          "required": true,
+          "dataType": "@drink",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой напиток хотите?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d11fffe3-7b69-4276-b9fc-7e8b87ba6391",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item ($amount шт.).\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

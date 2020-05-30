@@ -1,0 +1,33 @@
+{
+  "id": "683df546-efdd-40db-be81-24a2f150b00a",
+  "name": "pizzeria.order.pizza.confirm.yes",
+  "auto": true,
+  "contexts": [
+    "pizza-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, что-то еще?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,100 @@
+{
+  "id": "b5049c8d-da6c-4f1b-92c7-77d0e23b490b",
+  "parentId": "cb295fd7-7e2d-405f-b51a-5244c5e450d5",
+  "rootParentId": "cb295fd7-7e2d-405f-b51a-5244c5e450d5",
+  "name": "pizzeria.order.positive - yes",
+  "auto": true,
+  "contexts": [
+    "pizza",
+    "pizzeriaorderpositive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5fa3cb6f-1ed9-4c83-af95-a6e03454ce6a",
+          "required": true,
+          "dataType": "@pizza-type",
+          "name": "pizza-type",
+          "value": "$pizza-type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.pizza-type",
+          "isList": false
+        },
+        {
+          "id": "b294bb68-ba51-4ffb-8f88-f3cf6fe13e3a",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько $pizza-type штук вы хотите?"
+            },
+            {
+              "lang": "ru",
+              "value": "В каком количестве?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "06ea44c7-4f05-42d2-9b27-35a3a9de56b1",
+          "required": true,
+          "dataType": "@pizza-size",
+          "name": "pizza-size",
+          "value": "$pizza-size",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого размера?"
+            },
+            {
+              "lang": "ru",
+              "value": "Какой размер вы хотите?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы выбрали $number $pizza-type размера $pizza-size\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

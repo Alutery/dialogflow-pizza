@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ad81ffeb-91cb-46b0-b256-389029992a4e",
+    "data": [
+      {
+        "text": "оплата",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6a47f22-2915-47ec-b87c-f050d9ccd244",
+    "data": [
+      {
+        "text": "способы оплаты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7338db7d-c7d9-40cd-83fa-bb8e0017b594",
+    "data": [
+      {
+        "text": "как можно оплатить?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

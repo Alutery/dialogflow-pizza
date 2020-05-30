@@ -1,0 +1,31 @@
+{
+  "id": "868fb3af-81e2-4f0d-ae61-23395656964c",
+  "name": "pizzeria.info.soup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Мы можем вам предложить данные позиции:\n\n- Крем-суп из тыквы (215 руб.)\n- Крем-суп из грибов (295 руб.)\n- Суп куриная лапша (225 руб.)\n- Суп \"Дары Моря\" (445 руб.)\n- Борщ (257 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

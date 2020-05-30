@@ -1,0 +1,44 @@
+[
+  {
+    "id": "51be1335-7507-4463-9f55-d1cf2d093b04",
+    "data": [
+      {
+        "text": "мяса",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dd28ead-cb70-4d25-83d1-7bc2ee3a60c7",
+    "data": [
+      {
+        "text": "какие есть ",
+        "userDefined": false
+      },
+      {
+        "text": "Мясные ингредиенты?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cef123c-2384-477c-84fe-ce25abb090bd",
+    "data": [
+      {
+        "text": "Мясные ингредиенты",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

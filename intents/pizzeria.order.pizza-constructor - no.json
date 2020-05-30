@@ -1,0 +1,66 @@
+{
+  "id": "a6f1324b-a8e3-4480-9792-26e692ac8465",
+  "name": "pizzeria.order.pizza-constructor - no",
+  "auto": true,
+  "contexts": [
+    "pizza-constructor"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderpizza-constructor.pizzeriaorderpizza-constructor-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c271eb2-6847-4907-b3cf-5a85e193b6a6",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6183c087-1049-43d5-afe7-c3dfec05c8f8",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "pizza-name",
+          "value": "$pizza-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "Пицца-конструктор",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

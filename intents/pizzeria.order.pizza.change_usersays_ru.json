@@ -1,0 +1,302 @@
+[
+  {
+    "id": "d52ad680-ce40-435c-a9f0-265d18ca2d53",
+    "data": [
+      {
+        "text": "я хотел бы ",
+        "userDefined": false
+      },
+      {
+        "text": "среднюю",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22b903e-2f11-4806-acff-8e6c0a18cf8f",
+    "data": [
+      {
+        "text": "могу ли я вместо этого взять ",
+        "userDefined": false
+      },
+      {
+        "text": "одну",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "большую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5beee9a6-4b56-4f9e-9bdc-79f9d0f244fe",
+    "data": [
+      {
+        "text": "я хотел бы ",
+        "userDefined": false
+      },
+      {
+        "text": "маленькую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " на самом деле",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08541a47-4090-498d-80f9-35040e24bc33",
+    "data": [
+      {
+        "text": "подождите, могу ли я поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "большую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87f5ecd5-2c00-4361-ba22-a6858002c529",
+    "data": [
+      {
+        "text": "хочу лучше ",
+        "userDefined": false
+      },
+      {
+        "text": "одну",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "большую",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " пиццу ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01febcbe-0544-4c35-8a12-6680727ba9f1",
+    "data": [
+      {
+        "text": "давайте заменим на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "фермерские",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5da879ff-8e6e-4ae9-9b69-cc7a6491db41",
+    "data": [
+      {
+        "text": "думаю ",
+        "userDefined": false
+      },
+      {
+        "text": "фермерская",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " будет лучше",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6a75808-e124-485d-9df2-8c8fb25b2796",
+    "data": [
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1af7162-cc5e-4565-82a3-ab768d456822",
+    "data": [
+      {
+        "text": "я передумал, могу ли я взять ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecd23aad-8c4b-47a8-b7f1-7bc72f42c982",
+    "data": [
+      {
+        "text": "я передумал, давайте заменим на ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d00ca4af-6cf6-47e5-a514-f29d35192e63",
+    "data": [
+      {
+        "text": "поменяйте на ",
+        "userDefined": false
+      },
+      {
+        "text": "фермерскую",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e73b468-e9a2-46a1-b307-b3367b396e0b",
+    "data": [
+      {
+        "text": "могли бы вы добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "фермерскую",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " лучше",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "955266aa-d7b0-49da-91f8-f62e3667ca77",
+    "data": [
+      {
+        "text": "можно вместо этого ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62760f55-d78e-486d-a059-91a3520f48df",
+    "data": [
+      {
+        "text": "на самом деле я хотел бы ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

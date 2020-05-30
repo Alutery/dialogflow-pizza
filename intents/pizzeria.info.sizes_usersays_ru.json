@@ -1,0 +1,59 @@
+[
+  {
+    "id": "50cc891e-f892-4b8b-b0c4-6558ecd2ac82",
+    "data": [
+      {
+        "text": "Какие есть размеры?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88f04550-b951-4598-8c67-cf733143423a",
+    "data": [
+      {
+        "text": "Какие размеры пицц?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6540115-4606-41a1-a65b-e941c52b08f8",
+    "data": [
+      {
+        "text": "Какие размеры бывают?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ffd0c60e-bf46-4471-92e1-83cd858399ef",
+    "data": [
+      {
+        "text": "Каких ",
+        "userDefined": false
+      },
+      {
+        "text": "размеров",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " бывают пиццы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

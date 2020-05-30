@@ -1,0 +1,36 @@
+{
+  "id": "5f412770-efe9-4907-a404-8071eafad6bf",
+  "parentId": "4dc822a2-df75-47d2-91db-31c7e487d286",
+  "rootParentId": "0a9981c5-1dd1-4993-a837-43909331b8cf",
+  "name": "pizza.order.constructor - custom",
+  "auto": true,
+  "contexts": [
+    "pizzaorderconstructor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.pizzaorderstart-custom.pizzaorderconstructor-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

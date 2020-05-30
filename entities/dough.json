@@ -1,0 +1,9 @@
+{
+  "id": "56964f98-b78a-48c5-9eb0-8b2f7cdea907",
+  "name": "dough",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

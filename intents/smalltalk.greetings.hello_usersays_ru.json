@@ -1,0 +1,182 @@
+[
+  {
+    "id": "64dce42a-98c7-409c-b330-c2bce3947075",
+    "data": [
+      {
+        "text": "привет привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f452caf9-3f26-4ecb-aaf2-91bf536ed9b9",
+    "data": [
+      {
+        "text": "здравствуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e657b9f-87b4-44a5-b586-6db91359e84e",
+    "data": [
+      {
+        "text": "привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e623cb79-cc6e-40cc-9eae-f4e999814744",
+    "data": [
+      {
+        "text": "приветствую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a38dddc2-9021-4698-a352-44da03c313d2",
+    "data": [
+      {
+        "text": "всем привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0340ff3f-014e-48c0-b294-5d671fd39bed",
+    "data": [
+      {
+        "text": "хей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fffea32c-b94c-4a4f-9448-3c99a793c654",
+    "data": [
+      {
+        "text": "чао",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83c48700-77e2-4c30-b4e8-8c2a958a7aea",
+    "data": [
+      {
+        "text": "приветствую тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e46b7d90-ba74-4080-87e2-07735263832b",
+    "data": [
+      {
+        "text": "приветик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48f2e72f-5627-475b-b04d-95b9f868972a",
+    "data": [
+      {
+        "text": "и снова здравствуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b61838e-da02-4a8c-9245-a1b41158aaec",
+    "data": [
+      {
+        "text": "здравствуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2fee20cc-6be6-42a5-917a-0d73c88a2b6f",
+    "data": [
+      {
+        "text": "давно не виделись",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f2b7f10-5326-43c6-bdb6-903b1cc80893",
+    "data": [
+      {
+        "text": "просто хотел поздороваться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2ff6d36-ea3e-4829-b006-7fd825efe78d",
+    "data": [
+      {
+        "text": "хотелось бы тебя поприветствовать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e1899ca-7207-4444-9826-ca3afd2203a8",
+    "data": [
+      {
+        "text": "хочу сказать тебе привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

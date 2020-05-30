@@ -1,0 +1,32 @@
+[
+  {
+    "id": "69d540dd-caaf-488e-bcc3-5214019fb3c9",
+    "data": [
+      {
+        "text": "Даня",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d60698f3-0397-4447-ab18-5627bc9db243",
+    "data": [
+      {
+        "text": "я ",
+        "userDefined": false
+      },
+      {
+        "text": "Даня",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

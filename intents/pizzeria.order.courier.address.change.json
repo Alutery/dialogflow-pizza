@@ -1,0 +1,148 @@
+{
+  "id": "089a06fd-fb6f-4585-9553-8284485c3152",
+  "name": "pizzeria.order.courier.address.change",
+  "auto": true,
+  "contexts": [
+    "courier",
+    "delivery",
+    "change"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "delivery-confirm",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "courier",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "change",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a8c5d1e3-3c46-443c-a6f4-f70d2183f3f1",
+          "required": false,
+          "dataType": "@payment_type",
+          "name": "payment_type",
+          "value": "$payment_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.payment_type",
+          "isList": false
+        },
+        {
+          "id": "9b3369c1-3ed4-4f0c-be03-ccfeaf726495",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.number",
+          "isList": false
+        },
+        {
+          "id": "c61a58c1-4895-4c05-b162-ea01e2bfabd3",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.address",
+          "isList": false
+        },
+        {
+          "id": "e3c0e2f5-6ef5-4e30-971c-c51ecbcf7e6c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.time",
+          "isList": false
+        },
+        {
+          "id": "b8a636b2-6aca-41e6-ace1-3ee5fc8685d1",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.phone-number",
+          "isList": false
+        },
+        {
+          "id": "72cc0e0a-b4c3-4386-b2a3-35671d8d649a",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.email",
+          "isList": false
+        },
+        {
+          "id": "7da08bb4-75f9-433f-b2a6-1b8aa38e2b6a",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Ваше имя: $given-name\nТелефон: $phone-number\nEmail: $email\n\nПривезем по адресу $address \nСпособ оплаты: $payment_type\nКоличество персон: $number\n\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

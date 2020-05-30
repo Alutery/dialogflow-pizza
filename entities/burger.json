@@ -1,0 +1,9 @@
+{
+  "id": "83da3335-6431-4fdc-9eac-b51fa62f6cac",
+  "name": "burger",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

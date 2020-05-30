@@ -1,0 +1,144 @@
+[
+  {
+    "id": "b905320a-73fa-484c-8c36-4b5c2ea2086d",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "971b599f-0b02-4770-87d9-09e39545f26e",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d0975e-b02c-436a-9675-a15a0a93ff49",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab852ff-8900-4e89-8323-db8afdbc5d38",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79fbb1bb-9233-48a0-87b4-26a2c86da90f",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a70a8fb-3042-4d85-a7f1-d8c701e5d0aa",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "борщ",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79bf00f8-cc51-4778-8dc3-5c4a1a2fef64",
+    "data": [
+      {
+        "text": "хочу поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "борщ",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

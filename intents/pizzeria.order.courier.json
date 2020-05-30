@@ -1,0 +1,123 @@
+{
+  "id": "702d2dd8-be78-437e-ab4d-2270d300e28b",
+  "name": "pizzeria.order.courier",
+  "auto": true,
+  "contexts": [
+    "courier",
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "courier",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "pizzeriaordercourier-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e195b525-08d4-4e04-bd65-391ae11e6e16",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ваше имя?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "015a7ca5-54d5-4e7c-a105-7277affb7212",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой Ваш номер телефона?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "26614191-6998-422a-8b2c-d6cc20226b25",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ваш E-mail?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "eef960cc-3569-4abc-9e1e-1092422ac9db",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "person",
+          "value": "$person",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Количество персон?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Укажите, пожалуйста, адрес доставки"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

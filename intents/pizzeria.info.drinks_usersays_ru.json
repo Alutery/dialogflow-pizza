@@ -1,0 +1,176 @@
+[
+  {
+    "id": "4c6d1f16-1a4e-434e-9b51-4b574c49ba4e",
+    "data": [
+      {
+        "text": "какой есть сок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7fadd39-6cba-4c09-b676-9b2faafdfbdb",
+    "data": [
+      {
+        "text": "газировка",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0c2e78e-d603-4d58-ab78-9a3a8bb7ac61",
+    "data": [
+      {
+        "text": "вода",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95d2f8ae-a6df-4d04-ba6c-61e13b11e687",
+    "data": [
+      {
+        "text": "сок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93f6d4fb-4eab-4b59-8ff7-0bc0f282a86d",
+    "data": [
+      {
+        "text": "покажите ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " напитков",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e3012c4-21cd-45bf-9415-17e6c5b2fb08",
+    "data": [
+      {
+        "text": "все напитки ",
+        "userDefined": false
+      },
+      {
+        "text": "из",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7f34e4-30ac-4b3a-8026-e19092b081bf",
+    "data": [
+      {
+        "text": "напитки в меню",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e1bf8a8-b2c3-4054-9cab-e724063f37af",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " напитков",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c89ee1e-186a-4038-9b29-d8318cf16990",
+    "data": [
+      {
+        "text": "какие есть напитки в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bef8eb61-440f-48ed-b704-23280f17e2ba",
+    "data": [
+      {
+        "text": "какие есть напитки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35fb014b-ca03-4556-bf9a-a546358eff36",
+    "data": [
+      {
+        "text": "хочу пить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

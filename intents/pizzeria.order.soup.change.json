@@ -1,0 +1,77 @@
+{
+  "id": "22a0f447-69dc-4446-be9b-97244fbb97e7",
+  "name": "pizzeria.order.soup.change",
+  "auto": true,
+  "contexts": [
+    "item",
+    "soup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "soup",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be40d4d5-b328-4228-ba3a-7565632f14a5",
+          "required": false,
+          "dataType": "@soup",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.item",
+          "isList": false
+        },
+        {
+          "id": "f49041a7-833b-496f-8a5a-cbacb215e481",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $item ($amount шт.).\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

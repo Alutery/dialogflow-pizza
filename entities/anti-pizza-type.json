@@ -1,0 +1,9 @@
+{
+  "id": "4fc455f8-ac16-4bf6-b992-f84c133ff6cc",
+  "name": "anti-pizza-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

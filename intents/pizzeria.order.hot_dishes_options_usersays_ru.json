@@ -1,0 +1,318 @@
+[
+  {
+    "id": "0dfe139b-9bf7-4b76-9143-89bbce68a3a0",
+    "data": [
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " порции",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efd448cb-d5d8-45ef-87a6-f4b9de79c460",
+    "data": [
+      {
+        "text": "куриные наггетсы",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "360",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": true
+      },
+      {
+        "text": " г пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee17719b-702a-4fc4-823f-2f1f92b391cf",
+    "data": [
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри",
+        "alias": "param",
+        "meta": "@hot_dishes_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 гр.",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d0f75b6-fd2b-4591-be14-efaba25a52c4",
+    "data": [
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри",
+        "alias": "param",
+        "meta": "@hot_dishes_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 гр.",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b4d1404-6eef-417a-8779-f65d9b563c33",
+    "data": [
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри",
+        "alias": "param",
+        "meta": "@hot_dishes_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 гр",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb4df2b0-048d-4f25-af24-162cdce85008",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри",
+        "alias": "param",
+        "meta": "@hot_dishes_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 гр",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cfadc40-07d3-4db2-b8ff-c3edea6ced16",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 г",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e84deeec-2994-4c32-82d2-cd8973f32864",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      },
+      {
+        "text": " соус ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри",
+        "alias": "param",
+        "meta": "@hot_dishes_options_type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "370 гр",
+        "alias": "param-add",
+        "meta": "@hot_dishes_options_size",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f0457f-40d1-4895-98d5-9788fd7efd76",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "item-params",
+        "meta": "@hot_dishes_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

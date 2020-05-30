@@ -1,0 +1,33 @@
+{
+  "id": "8621f02c-08aa-4a65-8164-3f87da0e6672",
+  "name": "pizzeria.order.pizza.confirm.no",
+  "auto": true,
+  "contexts": [
+    "pizza-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Укажите желаемую деталь заказа"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

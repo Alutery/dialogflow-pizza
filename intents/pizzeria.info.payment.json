@@ -1,0 +1,39 @@
+{
+  "id": "2b46e525-7ebe-4358-b4a2-58f5bb9d1aad",
+  "name": "pizzeria.info.payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Вы можете оплатить наличными или банковской картой при получении"
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "А также доступна online оплата любым удобным способом: картой Visa, MasterCard, Maestro, ПРО100, МИР, JCB, UnionPay, Visa Electron"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

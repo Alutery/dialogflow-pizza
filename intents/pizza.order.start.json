@@ -1,0 +1,55 @@
+{
+  "id": "acbac0a3-0d81-4781-8a57-56aa46d44b0c",
+  "parentId": "0a9981c5-1dd1-4993-a837-43909331b8cf",
+  "rootParentId": "0a9981c5-1dd1-4993-a837-43909331b8cf",
+  "name": "pizza.order.start",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "pizzaorderstart-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "ru",
+          "condition": "",
+          "title": "Что бы вы хотели добавить в ваш заказ?",
+          "replies": [
+            "Конструктор пиццы",
+            "Бургеры NEW",
+            "Супы",
+            "Салаты"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Что бы вы хотели добавить в ваш заказ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

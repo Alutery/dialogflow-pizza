@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a16f2830-c2e5-4744-9ed2-113b5015351c",
+    "data": [
+      {
+        "text": "заказать пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cdc2b6e-8d24-41b6-9384-7ccf34679bb4",
+    "data": [
+      {
+        "text": "хочу взять пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a2bfc24-1baf-4a85-9366-7fdbfada152e",
+    "data": [
+      {
+        "text": "хочу заказать пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce4bcb5d-63a8-4024-b1d1-a56e88a91fe3",
+    "data": [
+      {
+        "text": "покажите ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efc2ccd1-0f6b-4f48-a496-b66592bbb404",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9e39a7c-0d47-4614-a87e-636389c68852",
+    "data": [
+      {
+        "text": "хочу пиццу",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6854099-d486-4fc5-a6bb-aca37938483b",
+    "data": [
+      {
+        "text": "пицца",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e7e7422-ff3d-4ca5-8566-12916b18a288",
+    "data": [
+      {
+        "text": "какая ",
+        "userDefined": false
+      },
+      {
+        "text": "есть пицца?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

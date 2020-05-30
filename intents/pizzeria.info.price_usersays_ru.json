@@ -1,0 +1,398 @@
+[
+  {
+    "id": "f9aec09a-0b34-44dc-a8ca-1e770ef659fd",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Пепперони",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea293176-47c7-4c48-a690-c586b4431e0b",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a90f568-bbfe-4a27-82c1-f694fc89c830",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Фахитос",
+        "alias": "hot_food_simple",
+        "meta": "@hot_food_simple",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "689ae420-bb33-478a-9707-cd55027a93e3",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Фахитос",
+        "alias": "hot_food_simple",
+        "meta": "@hot_food_simple",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e2a2ba7-306d-4fe3-8566-6c5b9be3c2ce",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе миньон",
+        "alias": "hot_food_options",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62608ea8-aa62-46ae-b141-f4991f170799",
+    "data": [
+      {
+        "text": "сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "Филе миньон",
+        "alias": "hot_food_options",
+        "meta": "@hot_food_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a43f4702-13a6-4be5-a65c-33b6871bd8a8",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "hot_dishes_options",
+        "meta": "@hot_dishes_options",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a6e4d1b-0600-457f-9535-1f6af10e04dc",
+    "data": [
+      {
+        "text": "сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "Крылышки острые фри",
+        "alias": "hot_dishes_options",
+        "meta": "@hot_dishes_options",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcc378ba-7fbb-4036-a5a9-641bab397bdb",
+    "data": [
+      {
+        "text": "сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "Сырные палочки",
+        "alias": "hot_dishes_cheese",
+        "meta": "@hot_dishes_cheese",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5337a343-7298-451b-8ec8-d28c4c6d15f4",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Сырных палочек",
+        "alias": "hot_dishes_cheese",
+        "meta": "@hot_dishes_cheese",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89008195-1c47-4e70-9884-b8f8252637b2",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Суп Дары Моря",
+        "alias": "soup",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02f1d81e-e677-4844-a7ac-571120cfa56b",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Салата Априори",
+        "alias": "salad_simple",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37767727-9d50-496f-a58e-4531dedc748d",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Греческий",
+        "alias": "salad_options",
+        "meta": "@salad_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f65cde2-28d2-4b27-a66a-44d44880238b",
+    "data": [
+      {
+        "text": "сколько стоят ",
+        "userDefined": false
+      },
+      {
+        "text": "Спринг роллы с цыплёнком",
+        "alias": "hot_dishes_simple",
+        "meta": "@hot_dishes_simple",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00d0b007-5562-47c7-87a9-c5689ee4ebfd",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Спринг роллов с цыплёнком",
+        "alias": "hot_dishes_simple",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4256db57-f2af-43ff-826d-ae64aad96b9e",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Pepsi light",
+        "alias": "drink_options",
+        "meta": "@drink_options",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54a854b9-3a75-4738-8db1-ee1c0430c868",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Pepsi light",
+        "alias": "drink_options",
+        "meta": "@drink_options",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a7cfbbf-6093-4015-90be-32db599af96a",
+    "data": [
+      {
+        "text": "цена ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургера с ягнёнком",
+        "alias": "burger",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "758f6adc-b7fa-4c64-bc40-9145f7352adb",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Картофель фри",
+        "alias": "burger",
+        "meta": "@burger",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b04cfa5-3e7d-4987-9762-9092a276f49a",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "борщ",
+        "alias": "soup",
+        "meta": "@soup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d098e0d3-37da-4cb2-b444-adf7a90ff624",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Греческий",
+        "alias": "salad_options",
+        "meta": "@salad_options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14385bfd-0f3a-4332-9b12-b55d02da465b",
+    "data": [
+      {
+        "text": "сколько стоит ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат с куриной печенью",
+        "alias": "salad_simple",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

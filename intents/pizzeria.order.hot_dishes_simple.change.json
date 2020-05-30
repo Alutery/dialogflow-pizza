@@ -1,0 +1,77 @@
+{
+  "id": "5782080f-2bd6-4d68-be57-a60fc0f26511",
+  "name": "pizzeria.order.hot_dishes_simple.change",
+  "auto": true,
+  "contexts": [
+    "item",
+    "hot_dishes_simple"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "hot_dishes_simple",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "75c43027-551a-4d6a-8186-d39a711e157a",
+          "required": false,
+          "dataType": "@hot_dishes_simple",
+          "name": "item",
+          "value": "$item",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.item",
+          "isList": false
+        },
+        {
+          "id": "ce97aa02-923e-46a9-a63b-d34e6aa38551",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $item.\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

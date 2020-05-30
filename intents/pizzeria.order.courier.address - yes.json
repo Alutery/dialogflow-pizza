@@ -1,0 +1,153 @@
+{
+  "id": "d6a053ed-a409-40b5-9f6d-fd60d4d4ea39",
+  "name": "pizzeria.order.courier.address - yes",
+  "auto": true,
+  "contexts": [
+    "courier",
+    "delivery",
+    "delivery-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "basket",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "courier",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "pizzeriaordercourieraddress-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "change",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "376401de-8d32-4ffe-a039-fb2ce90b513d",
+          "required": false,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.address",
+          "isList": false
+        },
+        {
+          "id": "82d7253a-c151-40fe-8905-bb99b028252c",
+          "required": false,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.time",
+          "isList": false
+        },
+        {
+          "id": "1742305a-5484-41f1-82d0-71f4a456a6b5",
+          "required": false,
+          "dataType": "@payment_type",
+          "name": "payment_type",
+          "value": "$payment_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.payment_type",
+          "isList": false
+        },
+        {
+          "id": "8b854448-cfa1-4c5d-9627-1fc76d22dbfb",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.given-name",
+          "isList": false
+        },
+        {
+          "id": "6888a95c-3433-4eea-983e-211b4dd446bf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.person",
+          "isList": false
+        },
+        {
+          "id": "2b699e58-7e84-4300-b5d3-44f11a0301db",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.phone-number",
+          "isList": false
+        },
+        {
+          "id": "53a74851-5152-4257-90b3-6b6c94596e4b",
+          "required": false,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.email",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично. Мы доставим сегодня в указанное Вами время!\n\nВаше имя: $given-name\nТелефон: $phone-number\nEmail: $email\n\nПривезем по адресу $address \nСпособ оплаты: $payment_type\nКоличество персон: $person"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

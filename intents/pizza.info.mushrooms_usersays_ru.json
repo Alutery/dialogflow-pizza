@@ -1,0 +1,39 @@
+[
+  {
+    "id": "85228b2b-7bc7-4d2d-b909-b13c25243f11",
+    "data": [
+      {
+        "text": "грибы",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "257a2b01-5dc7-4b2d-8f40-cf12bae1e5c6",
+    "data": [
+      {
+        "text": "У вас есть грибы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d67ede87-90d4-4a22-b631-3e62376d58fa",
+    "data": [
+      {
+        "text": "Какие есть грибы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

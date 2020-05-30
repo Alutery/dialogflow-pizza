@@ -1,0 +1,9 @@
+{
+  "id": "8f635777-5f37-4bc4-b7cd-e2da15f73446",
+  "name": "hot_dishes_options_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

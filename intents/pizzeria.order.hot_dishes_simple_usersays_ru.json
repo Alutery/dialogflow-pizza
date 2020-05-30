@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ede35445-b5de-4e69-9fc9-08750475a1fd",
+    "data": [
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee341b46-194c-469a-8356-9bc8976951a5",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0953b9d9-9eb7-40de-910f-1f0baf4cbfa7",
+    "data": [
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed9b9d2c-c361-4bab-a2ee-abdb244bbeed",
+    "data": [
+      {
+        "text": "заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3443cde8-7833-4540-8ce6-7db71f8f8990",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Креветки в соусе песто",
+        "alias": "item",
+        "meta": "@hot_dishes_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

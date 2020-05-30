@@ -1,0 +1,301 @@
+[
+  {
+    "id": "030cba67-1d99-4916-835b-9f611a7cf890",
+    "data": [
+      {
+        "text": "пожалуйста пиццу ",
+        "userDefined": false
+      },
+      {
+        "text": "Цезарь",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52a92488-b3a0-4342-aaac-21c85ef95eb1",
+    "data": [
+      {
+        "text": "можно, пожалуйста, пиццу ",
+        "userDefined": false
+      },
+      {
+        "text": "Цезарь",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2be3b707-c712-45a7-ba82-9ef63d7a6464",
+    "data": [
+      {
+        "text": "пиццу ",
+        "userDefined": false
+      },
+      {
+        "text": "Цезарь",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a46380b9-4ad7-4b9a-ae11-2bc0381874c9",
+    "data": [
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92f621c7-be4f-40e3-b50b-8ff66142ed42",
+    "data": [
+      {
+        "text": "две",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "большие",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерские",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28919531-510f-4895-8681-c21041cafcf7",
+    "data": [
+      {
+        "text": "две",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "большие",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерские",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " пиццы плиз",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5debb813-d8ca-4f9e-8e2f-0a71a998be0d",
+    "data": [
+      {
+        "text": "две",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "большие",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерские",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "790892ea-496c-461c-98d0-7797a77d04f5",
+    "data": [
+      {
+        "text": "хочу заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "дижонскую",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc73f97b-09b9-4c47-954f-fffb4396cba0",
+    "data": [
+      {
+        "text": "три",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри с цыпленком",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89fb551a-a30e-4351-b883-35adf60ae6a6",
+    "data": [
+      {
+        "text": "одна",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пицца",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "жульен",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8455930-d436-48f5-adc4-52b601e38314",
+    "data": [
+      {
+        "text": "Я хотел бы ",
+        "userDefined": false
+      },
+      {
+        "text": "одну",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " пиццу размера ",
+        "userDefined": false
+      },
+      {
+        "text": "31 см",
+        "alias": "pizza-size",
+        "meta": "@pizza-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерскую",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

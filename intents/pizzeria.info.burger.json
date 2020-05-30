@@ -1,0 +1,31 @@
+{
+  "id": "c899dc79-1db7-47c3-9c4d-2081ae7fb60f",
+  "name": "pizzeria.info.burger",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Мы можем вам предложить данные позиции:\n\nБургер «Два сыра» (387 руб.)\nБургер с вишнёвым соусом (375 руб.)\nБургер с ягнёнком (387 руб.)\nБургер «Мексиканский» (357 руб.)\nБургер «Цезарь» new (357 руб.)\nБургер «Цыпленок карри» (345 руб.)\nКартофель фри (179 руб.)\nКартофель по-деревенски (179 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

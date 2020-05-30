@@ -1,0 +1,35 @@
+{
+  "id": "cd5ec5a2-2211-470a-85f8-dfb5b1d9b5e8",
+  "name": "Fallback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": [
+            "Не совсем понимаю о чем ты",
+            "Прости, я не понимаю тебя (((",
+            "Попробуй, пожалуйста, выразить свою мысль по-другому"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "63a6f9e9-f3b0-4c80-b7e6-1b4957af380c",
+    "data": [
+      {
+        "text": "присутствует ли в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Карри с цыпленком",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cac3648d-4ad4-466f-a99e-4cdece028b18",
+    "data": [
+      {
+        "text": "если ли у вас ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерская",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пицца",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e91ecce9-54bc-4307-a5eb-1a03b8d4adaf",
+    "data": [
+      {
+        "text": "если ли у вас ",
+        "userDefined": false
+      },
+      {
+        "text": "Фермерская",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6042803c-9f13-47a3-abed-ab4297da0d57",
+    "data": [
+      {
+        "text": "у вас ",
+        "userDefined": false
+      },
+      {
+        "text": "есть пицца",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Маргарита",
+        "alias": "pizza-type",
+        "meta": "@pizza-type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

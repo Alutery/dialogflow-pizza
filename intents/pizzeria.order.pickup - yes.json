@@ -1,0 +1,115 @@
+{
+  "id": "66ff08c8-1807-4cdd-b803-747ee08f25e5",
+  "name": "pizzeria.order.pickup - yes",
+  "auto": true,
+  "contexts": [
+    "pickup",
+    "delivery",
+    "delivery-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderpickup.pizzeriaorderpickup-yes",
+      "affectedContexts": [
+        {
+          "name": "pickup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "delivery-confirm",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "basket",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "change",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5afe2bdd-2f34-4cd8-9131-9a0edc97a71c",
+          "required": false,
+          "dataType": "@pickup_place",
+          "name": "pickup_place",
+          "value": "$pickup_place",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.pickup_place",
+          "isList": false
+        },
+        {
+          "id": "1c23984b-d160-477d-9a79-06e8003d3b7b",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.given-name",
+          "isList": false
+        },
+        {
+          "id": "9093ce51-4304-46fe-b603-f88b393d0326",
+          "required": false,
+          "dataType": "@payment_type",
+          "name": "payment_type",
+          "value": "$payment_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.payment_type",
+          "isList": false
+        },
+        {
+          "id": "f5ca7a2e-1dbb-4eb4-aea0-6621d0d51eb3",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "person",
+          "value": "$person",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#delivery.person",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично. Мы ждем сегодня в указанное Вами время!\n\nГде: $pickup_place \nНа имя: $given-name\nОплата: $payment_type\nЧисло персон: $person"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

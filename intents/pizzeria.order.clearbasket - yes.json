@@ -1,0 +1,52 @@
+{
+  "id": "bb5e6e9e-d43d-45b7-ae6f-cf061502be7b",
+  "parentId": "d6b5bd70-b887-4f84-9a8c-129819fa6343",
+  "rootParentId": "d6b5bd70-b887-4f84-9a8c-129819fa6343",
+  "name": "pizzeria.order.clearbasket - yes",
+  "auto": true,
+  "contexts": [
+    "pizzeriaorderclearbasket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pizzeriaorderclearbasket.pizzeriaorderclearbasket-yes",
+      "affectedContexts": [
+        {
+          "name": "basket",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "pizzeriaorderclearbasket-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Корзина очищена"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

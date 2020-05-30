@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9ba87097-3811-4fcf-95a2-6e2c4ef53c2e",
+    "data": [
+      {
+        "text": "не так",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9535907a-329d-449a-b862-693821dd409b",
+    "data": [
+      {
+        "text": "не верно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed5776d0-ebbd-41f3-ae6a-bda201ce4136",
+    "data": [
+      {
+        "text": "нет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

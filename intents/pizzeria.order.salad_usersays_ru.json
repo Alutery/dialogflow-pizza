@@ -1,0 +1,158 @@
+[
+  {
+    "id": "b0686a68-4dad-4690-bd73-8a13b7c3386d",
+    "data": [
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b06aaa14-f51a-4620-999f-9c7d5b9165e0",
+    "data": [
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97040158-dc1d-4f37-9b09-785856509de6",
+    "data": [
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ef69424-8337-4c5a-b9df-9709d854b5db",
+    "data": [
+      {
+        "text": "выбираю ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef73afa3-fe5b-4831-8a0d-10299ae51dad",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e557b01b-5dc5-4540-861e-9af24073f4e1",
+    "data": [
+      {
+        "text": "взять ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "faf0b559-fefe-4747-b699-e86097545ca7",
+    "data": [
+      {
+        "text": "заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "487a68f1-6592-419a-b1fc-8534493cf5ab",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Салат Априори",
+        "alias": "item",
+        "meta": "@salad_simple",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

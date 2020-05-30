@@ -1,0 +1,141 @@
+{
+  "id": "ea813c3c-97f9-4c6e-a1a8-d68626512efa",
+  "name": "pizzeria.order.pizza-constructor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza-constructor",
+          "parameters": {},
+          "lifespan": 30
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bd46e24a-a6a6-48bc-aecf-027ac8dbd33c",
+          "required": true,
+          "dataType": "@dough",
+          "name": "dough",
+          "value": "$dough",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого типа тесто желаете: пышное или тонкое?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.dough",
+          "isList": false
+        },
+        {
+          "id": "cc613160-aadd-4397-bde2-f2a5845ad350",
+          "required": true,
+          "dataType": "@souce",
+          "name": "souce",
+          "value": "$souce",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой соус добавить?\n\nТоматный (0 руб.)\nКоктейль (0 руб.)\nСливочный (0 руб.)\nФранцузский (0 руб.)\nГорчичный (0 руб.)\nРикотта (0 руб.)"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.souce",
+          "isList": false
+        },
+        {
+          "id": "b24f88f5-666d-478d-a241-7f80fde62eef",
+          "required": false,
+          "dataType": "@meat_ingredients",
+          "name": "meat_ingredients",
+          "value": "$meat_ingredients",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.meat_ingredients",
+          "isList": true
+        },
+        {
+          "id": "8b9214b5-3ec5-4ae2-9f01-79db17dedf95",
+          "required": false,
+          "dataType": "@mushrooms",
+          "name": "mushrooms",
+          "value": "$mushrooms",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.mushrooms",
+          "isList": false
+        },
+        {
+          "id": "60599eda-d20f-4614-a781-d10f1c8f6fbe",
+          "required": false,
+          "dataType": "@vegetables_and_fruits",
+          "name": "vegetables_and_fruits",
+          "value": "$vegetables_and_fruits",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.vegetables_and_fruits",
+          "isList": true
+        },
+        {
+          "id": "4867dc0b-4888-419e-800f-4340c651bca7",
+          "required": false,
+          "dataType": "@cheese",
+          "name": "cheese",
+          "value": "$cheese",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.cheese",
+          "isList": true
+        },
+        {
+          "id": "13b7bb09-9738-4aa4-96b1-8e9c1fd2851b",
+          "required": false,
+          "dataType": "@seafood",
+          "name": "seafood",
+          "value": "$seafood",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza-constructor.seafoodseafood",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

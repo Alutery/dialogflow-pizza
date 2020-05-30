@@ -1,0 +1,84 @@
+{
+  "id": "57bafd08-fc6e-4218-b4a3-1ac74cc71dc3",
+  "name": "pizzeria.order.pizza.change",
+  "auto": true,
+  "contexts": [
+    "pizza"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "pizza-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ee53037b-d79e-431a-809c-db82a412305f",
+          "required": true,
+          "dataType": "@pizza-type",
+          "name": "pizza-type",
+          "value": "$pizza-type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.pizza-type",
+          "isList": false
+        },
+        {
+          "id": "bbce033c-7791-4b64-8126-a48699003826",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.number",
+          "isList": false
+        },
+        {
+          "id": "0d64aeee-e9ef-4bd4-a579-f9ee80335792",
+          "required": true,
+          "dataType": "@pizza-size",
+          "name": "pizza-size",
+          "value": "$pizza-size",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#pizza.pizza-size",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $number $pizza-type размера $pizza-size.\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

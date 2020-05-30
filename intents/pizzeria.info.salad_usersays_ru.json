@@ -1,0 +1,82 @@
+[
+  {
+    "id": "391c76fd-efb2-4eca-bda4-be0e1b10580c",
+    "data": [
+      {
+        "text": "какие есть салаты в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ee5846a-ab19-4bbd-8257-505bb9c630c8",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "салатов",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23f9c2bf-2c12-464f-97fc-d8fb056912e4",
+    "data": [
+      {
+        "text": "какие есть салаты?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "620f304d-0129-4a32-90cb-874f0562bd17",
+    "data": [
+      {
+        "text": "хочу салат",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0935973-1edb-432e-9bc5-7082fe6bb0ec",
+    "data": [
+      {
+        "text": "салаты",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "d27d4558-241d-4729-87dd-bc20d21d8837",
+    "data": [
+      {
+        "text": "морепродукты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51f7ded2-38dd-4a81-9038-5e825c2b6988",
+    "data": [
+      {
+        "text": "морепродукты для пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13c42bce-a3a8-409f-9900-6a18b1e77e8e",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " морепродуктов для пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a783a251-956d-464b-9f57-576259e55faa",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " морепродуктов",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce96298f-38f8-4965-98de-784059118d79",
+    "data": [
+      {
+        "text": "какие есть морепродукты?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

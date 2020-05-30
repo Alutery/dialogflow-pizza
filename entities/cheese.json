@@ -1,0 +1,9 @@
+{
+  "id": "2dc0bcbf-45c6-432f-a506-0caa1623d193",
+  "name": "cheese",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

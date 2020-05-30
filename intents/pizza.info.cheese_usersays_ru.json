@@ -1,0 +1,111 @@
+[
+  {
+    "id": "c0501d3b-2989-40e3-9511-1ba24477c13c",
+    "data": [
+      {
+        "text": "сыр",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "afc397ea-46ed-4d0b-9847-95f9eaa98fa7",
+    "data": [
+      {
+        "text": "дополнительные сыры",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "669804bb-be73-4edd-ab92-9bd1432430de",
+    "data": [
+      {
+        "text": "доп сыры",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f41e67a-dfeb-445c-bf71-aafc58b1c6d5",
+    "data": [
+      {
+        "text": "ингредиент ",
+        "userDefined": false
+      },
+      {
+        "text": "сыр",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbc40c78-218a-4d30-83fc-0f392d88a89f",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "сыров",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea13bd03-8525-432c-bdd8-e8dbd4aab213",
+    "data": [
+      {
+        "text": "сыры",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1b4382c-1498-44db-8446-4ab086b2b6c0",
+    "data": [
+      {
+        "text": "какие есть ",
+        "userDefined": false
+      },
+      {
+        "text": "сыры",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

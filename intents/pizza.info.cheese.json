@@ -1,0 +1,31 @@
+{
+  "id": "46ff8553-f425-45f8-b689-8ac07b6b97af",
+  "name": "pizza.info.cheese",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Сыр Моцарелла берется за основу\nТакже вы можете добавить в пиццу дополнительные сыры:\n\nДор Блю (99 руб.)\nМоцарелла (70 руб.)\nПармезан (70 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

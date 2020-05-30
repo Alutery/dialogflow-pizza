@@ -1,0 +1,83 @@
+{
+  "id": "cdc842a7-407c-4674-a6e2-ebfa95c5add1",
+  "name": "pizzeria.order.burger.change",
+  "auto": true,
+  "contexts": [
+    "item",
+    "burger"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "burger",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "item-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e42a2ec3-bdd3-4d4f-a43d-5f5d0cfbe6df",
+          "required": false,
+          "dataType": "@burger",
+          "name": "item",
+          "value": "$item",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "На какой бургер поменять?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.item",
+          "isList": false
+        },
+        {
+          "id": "8984331d-85e6-41ad-b581-a6ecf0578d82",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#item.amount",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Хорошо, вы изменили свой выбор на $item ($amount шт.).\nТеперь все верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

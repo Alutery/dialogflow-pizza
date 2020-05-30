@@ -1,0 +1,170 @@
+[
+  {
+    "id": "d0da7e0b-844e-4e86-a8f2-0d4636cd2f87",
+    "data": [
+      {
+        "text": "тархун",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0774d09a-faf1-4c8b-a7b4-604238ff9a76",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "524bc192-0968-4949-bca1-4d1277477561",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbdd6b6d-cd20-4b2c-9de7-752138472ba3",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "тархун",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " шт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4aa626e-806c-4998-bb64-b95553251b16",
+    "data": [
+      {
+        "text": "поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "тархун",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "505712b1-c340-4917-ab51-10adea189981",
+    "data": [
+      {
+        "text": "хочу поменять на ",
+        "userDefined": false
+      },
+      {
+        "text": "тархун",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "701e2eea-2939-4491-a5e6-c8b064989232",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "сок анансовый",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ed0454a-8a5b-48a3-b777-51850a9dfd0b",
+    "data": [
+      {
+        "text": "хочу купить ",
+        "userDefined": false
+      },
+      {
+        "text": "Тархун",
+        "alias": "item",
+        "meta": "@drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

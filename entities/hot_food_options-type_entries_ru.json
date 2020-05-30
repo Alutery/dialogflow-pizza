@@ -1,0 +1,25 @@
+[
+  {
+    "value": "прожарка Medium",
+    "synonyms": [
+      "прожарка Medium",
+      "средняя",
+      "средняя прожарка",
+      "medium"
+    ]
+  },
+  {
+    "value": "прожарка Well Done",
+    "synonyms": [
+      "прожарка Well Done",
+      "Well Done"
+    ]
+  },
+  {
+    "value": "прожарка Rare",
+    "synonyms": [
+      "прожарка Rare",
+      "Rare"
+    ]
+  }
+]

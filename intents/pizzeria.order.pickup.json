@@ -1,0 +1,177 @@
+{
+  "id": "60f62316-994b-4d66-ab7f-c919791e2a5e",
+  "name": "pizzeria.order.pickup",
+  "auto": true,
+  "contexts": [
+    "pickup",
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pickup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "delivery-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e9882bf4-f8dd-4ff4-8c14-dbce31382918",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ваше имя?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c32e39a5-70bf-4a2c-9bab-a85e50a5fe24",
+          "required": true,
+          "dataType": "@pickup_place",
+          "name": "pickup_place",
+          "value": "$pickup_place",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Где вам будет удобнее забрать?\n\nНаши пункты:\nМосква, Сиреневый бульвар, д. 15а\nМосква, ул. Петрозаводская, д. 24б\nМытищи, ул. Воровского, д. 1"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b16452d9-5634-44e1-be52-bf91717cd85c",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какой Ваш номер телефона?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0a43f079-38f3-400e-a3d0-b1c5b0bd9ab6",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ваш E-mail?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "762d6730-a268-4622-8ff0-2e3b60471212",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Количество персон?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f510bf54-5edb-452e-819f-9985c5fac297",
+          "required": true,
+          "dataType": "@payment_type",
+          "name": "payment_type",
+          "value": "$payment_type",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Желаемый способ оплаты? (Оплата при получении наличными или банковской картой)\nК сожалению оплата онлайн пока не поддерживается :с"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dbaabed2-f9d7-45b5-9d2a-9f642e998325",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ко скольки приготовить заказ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Ваше имя: $given-name\nТелефон: $phone-number\nEmail: $email\n\nЖдем вас по адресу $pickup_place \nСпособ оплаты: $payment_type\n\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

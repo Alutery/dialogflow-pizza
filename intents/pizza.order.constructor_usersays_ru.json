@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4e15d457-afc3-4d4a-be98-0e984d17342f",
+    "data": [
+      {
+        "text": "конструктор пиццы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5fbfe43-9746-44cb-b1d2-fc305e4c604a",
+    "data": [
+      {
+        "text": "сконструировать пиццу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

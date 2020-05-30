@@ -1,0 +1,9 @@
+{
+  "id": "d2376fd8-a7cd-4e45-8e93-db8f4b636737",
+  "name": "soup",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

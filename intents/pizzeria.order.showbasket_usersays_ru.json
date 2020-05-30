@@ -1,0 +1,128 @@
+[
+  {
+    "id": "20db793d-2032-4666-b26d-d6255b317b40",
+    "data": [
+      {
+        "text": "покажи мой заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c41d90a-ffa8-4edc-a2a6-102dd907ac66",
+    "data": [
+      {
+        "text": "что в заказе?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2f9bdb1-2f2d-4a1a-8b82-07abaaffd7ac",
+    "data": [
+      {
+        "text": "мой заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a5f868b-603f-4f9b-b8e4-157d0f7ddfbf",
+    "data": [
+      {
+        "text": "покажи мою корзину",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d8ebacd-90b5-4676-8322-68c42edb95dd",
+    "data": [
+      {
+        "text": "покажи корзину",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2aaa643-95af-478f-896e-5480a036021c",
+    "data": [
+      {
+        "text": "что у меня ",
+        "userDefined": false
+      },
+      {
+        "text": "сейчас",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc47bceb-87c2-408e-a965-4414b9cc74ab",
+    "data": [
+      {
+        "text": "что у меня ",
+        "userDefined": false
+      },
+      {
+        "text": "сейчас",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " есть в корзине?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8575e215-868d-438f-89ce-25a2e64bb88e",
+    "data": [
+      {
+        "text": "чтоу меня в корзине?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52ba5a28-1397-4122-9f36-3bbbb8d871f7",
+    "data": [
+      {
+        "text": "корзина",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "a3f7de22-ec2b-4e66-a2c5-9f8c05f02b3e",
+    "data": [
+      {
+        "text": "на ",
+        "userDefined": false
+      },
+      {
+        "text": "большая",
+        "alias": "param",
+        "meta": "@drink_options_size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "пепси",
+        "alias": "item-params",
+        "meta": "@drink_options",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

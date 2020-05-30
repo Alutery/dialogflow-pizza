@@ -1,0 +1,31 @@
+{
+  "id": "1d69a88f-523c-4ebc-a66d-c4e2a58a4312",
+  "name": "pizza.info.meat_ingredients",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Из мясных ингредиентов можете выбрать:\n\nФарш из баранины (97 руб.)\nБекон (70 руб.)\nОхотничьи колбаски (70 руб.)\nКуриное филе (70 руб.)\nПепперони (99 руб.)\nФиле говядины (99 руб.)\nГовядина в/к (70 руб.)\nИтальянские колбаски (70 руб.)\nВетчина (70 руб.)\nСвинина в/к (70 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

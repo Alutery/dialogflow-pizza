@@ -1,0 +1,331 @@
+[
+  {
+    "id": "94ea820f-a96c-4ea5-b737-398d069c40c2",
+    "data": [
+      {
+        "text": "23:20",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9354fb3-e628-4473-9571-8b6aa3192e17",
+    "data": [
+      {
+        "text": "привезите к ",
+        "userDefined": false
+      },
+      {
+        "text": "3 часам",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7696b20d-e347-4c34-985a-51adc218ee50",
+    "data": [
+      {
+        "text": "к ",
+        "userDefined": false
+      },
+      {
+        "text": "5 дня",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "223a2d3a-230d-427a-964d-0b77bb618ad7",
+    "data": [
+      {
+        "text": "полдень",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2d28b22-5052-4805-8484-231a449922f1",
+    "data": [
+      {
+        "text": "хочу оплатить ",
+        "userDefined": false
+      },
+      {
+        "text": "картой",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55fe7cd8-f64d-47b7-bc59-1c8323ce22cb",
+    "data": [
+      {
+        "text": "Оплата при получении наличными",
+        "alias": "payment_type",
+        "meta": "@payment_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aed7cc76-80de-4b6f-8a54-58d050cf05b3",
+    "data": [
+      {
+        "text": "Макс",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5efb0469-0807-4686-9fc9-1aed54b28d8b",
+    "data": [
+      {
+        "text": "Максим Костерин",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "712d189c-1ce9-42b3-b3e9-8edace72def1",
+    "data": [
+      {
+        "text": "трое",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6aacc776-4906-480d-9c1d-e14d594fe85a",
+    "data": [
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "персон",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abc6751b-4b92-4c1a-8ed9-a4af4ee1e3eb",
+    "data": [
+      {
+        "text": "10",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " человек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5be415a-b64c-480b-80fd-9b97c0632f89",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6565cf-96d2-4a61-9625-21df637e2192",
+    "data": [
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0389049e-87ad-43cb-b558-6f25851b8dbe",
+    "data": [
+      {
+        "text": "89874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94d3e500-9cff-4655-9942-28b4c2791041",
+    "data": [
+      {
+        "text": "Обращайтесь ко мне \"",
+        "userDefined": false
+      },
+      {
+        "text": "хороший мужик",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1746b9be-c8d0-4aa9-b891-afd2ac693693",
+    "data": [
+      {
+        "text": "мой email ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "094a2342-6577-4369-a9ea-c427f225ece8",
+    "data": [
+      {
+        "text": "мой имейл ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c109b65b-e691-4d05-a700-956dbc38e992",
+    "data": [
+      {
+        "text": "мой телефон ",
+        "userDefined": false
+      },
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a38b0888-a413-47c3-9b0b-9406e0eec920",
+    "data": [
+      {
+        "text": "Мытищи, ул. Воровского, д. 1",
+        "alias": "pickup_place",
+        "meta": "@pickup_place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "667ecb07-6ec7-455c-97f3-0db412877ed6",
+    "data": [
+      {
+        "text": "Маша",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

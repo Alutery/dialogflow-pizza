@@ -1,0 +1,31 @@
+{
+  "id": "11714173-ee00-4d4b-a0d6-f282e234c650",
+  "name": "pizza.info.seafood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Из морепродуктов в пиццу вы можете добавить:\n\nТунец (97 руб.)\nЛосось слабосоленый (99 руб.)\nКреветки (99 руб.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

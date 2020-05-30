@@ -1,0 +1,113 @@
+{
+  "id": "7028666e-e087-44fc-8486-3101d9e93da9",
+  "parentId": "702d2dd8-be78-437e-ab4d-2270d300e28b",
+  "rootParentId": "702d2dd8-be78-437e-ab4d-2270d300e28b",
+  "name": "pizzeria.order.courier.address",
+  "auto": true,
+  "contexts": [
+    "courier",
+    "delivery",
+    "pizzeriaordercourier-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "courier",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "pizzeriaordercourieraddress-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "delivery-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cbadffb6-fa74-49f6-8679-f3eee16bc922",
+          "required": true,
+          "dataType": "@sys.address",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ваш адрес?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "98eee86d-88ae-4d57-9feb-5963407fbb26",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Ко скольки привезти заказ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1401b36d-0f75-44f9-8217-63473fc6d8cb",
+          "required": true,
+          "dataType": "@payment_type",
+          "name": "payment_type",
+          "value": "$payment_type",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Желаемый способ оплаты? (Оплата при получении наличными или банковской картой)\nК сожалению оплата онлайн пока не поддерживается :с"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Ваше имя: $given-name\nТелефон: $phone-number\nEmail: $email\n\nПривезем по адресу $address \nСпособ оплаты: $payment_type\nКоличество персон: $number\n\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

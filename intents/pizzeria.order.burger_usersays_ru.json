@@ -1,0 +1,138 @@
+[
+  {
+    "id": "fef18636-95f7-4b7f-a2cf-db06a7c64767",
+    "data": [
+      {
+        "text": "один",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "бургер цезарь",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "298a35b0-5f9b-4039-ba19-88573b2c3a43",
+    "data": [
+      {
+        "text": "два",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургер «Цезарь»",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8268f57a-9485-4152-b7c4-93029dfd8670",
+    "data": [
+      {
+        "text": "Бургер «Цыпленок карри",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      },
+      {
+        "text": "» ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "028595c6-686c-4e91-9f17-2ebad5dd15f6",
+    "data": [
+      {
+        "text": "Бургер «Цыпленок карри»",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "badc00ff-f4df-45a7-904b-b571b16ede3e",
+    "data": [
+      {
+        "text": "Бургер «Цыпленок карри»",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b8f84d3-f0fb-4347-b1c0-64af72a1ac96",
+    "data": [
+      {
+        "text": "хочу ",
+        "userDefined": false
+      },
+      {
+        "text": "Бургер «Цыпленок карри",
+        "alias": "item",
+        "meta": "@burger",
+        "userDefined": false
+      },
+      {
+        "text": "»",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

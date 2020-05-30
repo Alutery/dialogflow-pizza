@@ -1,0 +1,56 @@
+{
+  "id": "3d5b503e-193a-4b71-9537-4ac44fb19733",
+  "name": "pizzeria.order.confirm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 20
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d579c6b0-5f1c-4827-9f87-1f0f2ae4ee2e",
+          "required": true,
+          "dataType": "@delivery_type",
+          "name": "delivery_type",
+          "value": "$delivery_type",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Выберете самовывоз или стандартную доставку?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

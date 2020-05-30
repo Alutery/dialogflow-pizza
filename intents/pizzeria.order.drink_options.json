@@ -1,0 +1,96 @@
+{
+  "id": "c673f4a4-ef9e-42c0-adfd-1d9801c989dc",
+  "name": "pizzeria.order.drink_options",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "drink_options",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-params",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "item-params-confirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "07800a76-91f6-4b0b-8933-082034feae68",
+          "required": true,
+          "dataType": "@drink_options",
+          "name": "item-params",
+          "value": "$item-params",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3f06346c-9878-429d-a51c-22759ffc1738",
+          "required": true,
+          "dataType": "@drink_options_size",
+          "name": "param",
+          "value": "$param",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Какого объема? \nБольшой (2 л) или  маленький (0,5 л)?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a4f4e452-5a8e-4697-84ab-dbcf4c237850",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Сколько штук?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "condition": "",
+          "speech": "Отлично, вы выбрали $item-params ($param, $amount шт.).\nВсе верно?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

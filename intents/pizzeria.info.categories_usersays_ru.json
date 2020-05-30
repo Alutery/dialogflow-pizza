@@ -1,0 +1,250 @@
+[
+  {
+    "id": "10e5ac8d-9131-4772-892d-17f4300d85f0",
+    "data": [
+      {
+        "text": "покажи мне ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ресторана",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d933c4c-c8d3-494d-80aa-0e9928c531fd",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ресторана",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdc15c06-935d-452e-bb29-af6628bd38a1",
+    "data": [
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f53efef5-fde5-4d16-8942-a441bc22042c",
+    "data": [
+      {
+        "text": "покажи ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bd58c83-2570-4b65-a930-089bc2a21e6a",
+    "data": [
+      {
+        "text": "сделать заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "efa66b63-e160-4ba6-8087-17d1676c3eba",
+    "data": [
+      {
+        "text": "перейти к заказу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c035aeb-1dd0-4e7d-b564-ded8463273bc",
+    "data": [
+      {
+        "text": "я готов заказать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f792aa6-c73b-400e-b6a6-f6abe8779e1e",
+    "data": [
+      {
+        "text": "готов заказать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "681e3b3d-2337-4875-9857-4ec20b8d63ff",
+    "data": [
+      {
+        "text": "заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16e83faa-ac80-4527-8578-97b945338f19",
+    "data": [
+      {
+        "text": "хочу заказать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5415f9-2ee8-4750-94f7-c590e2deb70e",
+    "data": [
+      {
+        "text": "хочу сделать заказ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb66de29-13b9-4210-afac-a5daa036b994",
+    "data": [
+      {
+        "text": "что вы можете предложить?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8da8992d-ad9b-47ff-80f1-a8fe35762ff9",
+    "data": [
+      {
+        "text": "что у вас есть?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "448a1051-acda-43b5-b2b3-2220c4106367",
+    "data": [
+      {
+        "text": "категории",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fd31ebe-f6b3-4d3d-a11a-a3f91901ae28",
+    "data": [
+      {
+        "text": "покажите ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e35c31d6-daa4-48bd-ae4d-b29888d8ee68",
+    "data": [
+      {
+        "text": "что есть в ",
+        "userDefined": false
+      },
+      {
+        "text": "меню",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58a8e33a-8837-49ed-a9a0-ea10068a81ee",
+    "data": [
+      {
+        "text": "какие есть катигории?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

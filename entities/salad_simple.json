@@ -1,0 +1,9 @@
+{
+  "id": "0fb42e1e-8d67-4e28-ba79-6f31e6864a28",
+  "name": "salad_simple",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

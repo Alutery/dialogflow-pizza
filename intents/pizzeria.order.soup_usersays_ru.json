@@ -1,0 +1,160 @@
+[
+  {
+    "id": "ccaf4cd9-4ade-49fc-9081-6f3d897cc9ec",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "борща",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96703d39-6e41-4721-8cdf-60bfee6d62fe",
+    "data": [
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "борща",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      },
+      {
+        "text": " пожалуйста",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6219444a-cd81-47c4-adaf-5a5127dcaa4e",
+    "data": [
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " штуки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70c936f9-060a-4bc3-bcb7-efa65f8efac3",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "amount",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99b8cb48-e3ae-4ca7-b906-b08e6883bdf3",
+    "data": [
+      {
+        "text": "добавить ",
+        "userDefined": false
+      },
+      {
+        "text": "Крем-суп из тыквы",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "342cd7b9-bc3d-459e-a7ba-88a3c2eedfe6",
+    "data": [
+      {
+        "text": "я хочу заказать ",
+        "userDefined": false
+      },
+      {
+        "text": "Суп куриная лапша",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7481f011-443e-4665-ab7b-65711d3f152d",
+    "data": [
+      {
+        "text": "борщ",
+        "alias": "item",
+        "meta": "@soup",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

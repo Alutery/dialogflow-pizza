@@ -1,0 +1,234 @@
+[
+  {
+    "id": "d021b4d2-65f8-4614-971a-f8a8a0e253a4",
+    "data": [
+      {
+        "text": "10",
+        "alias": "person",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "546458b1-7885-4ddd-aabf-e6447cc44802",
+    "data": [
+      {
+        "text": "1",
+        "alias": "person",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " человек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "119237b0-887d-4653-8a00-a9345bff96f7",
+    "data": [
+      {
+        "text": "мой email ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a71b8d71-1339-4bf3-9d07-1bfb88bc418f",
+    "data": [
+      {
+        "text": "мой имейл ",
+        "userDefined": false
+      },
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e88b4550-d457-4c7b-973f-ae0c366d554f",
+    "data": [
+      {
+        "text": "ktotamy@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "524c0cf2-5147-461c-ac93-f429dcb7daf5",
+    "data": [
+      {
+        "text": "мой телефон ",
+        "userDefined": false
+      },
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc9547b2-ddea-472c-8214-7f757120e9c9",
+    "data": [
+      {
+        "text": "+79874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e9d389a-4668-4682-9dd9-c38f1cfcc067",
+    "data": [
+      {
+        "text": "89874763490",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "066342fe-19cb-42a4-b1fd-a6f468f2410b",
+    "data": [
+      {
+        "text": "Обращайтесь ко мне \"",
+        "userDefined": false
+      },
+      {
+        "text": "хороший мужик",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1a5fac8-14b2-4b54-a944-654b77b233ce",
+    "data": [
+      {
+        "text": "Максим Костерин",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80cd4ae0-0046-4549-8784-3fa53ec50cf2",
+    "data": [
+      {
+        "text": "По батюшке ",
+        "userDefined": false
+      },
+      {
+        "text": "Ильич",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "800d67f6-cb32-4bcd-9571-89f3a2fe7dbe",
+    "data": [
+      {
+        "text": "Зовите меня ",
+        "userDefined": false
+      },
+      {
+        "text": "Максим",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79671d96-4f85-4014-86d4-86f58971b50b",
+    "data": [
+      {
+        "text": "Дмитрий Анатольевич",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a43bb05-bb96-4298-ab94-37b02c3c25a1",
+    "data": [
+      {
+        "text": "меня зовут ",
+        "userDefined": false
+      },
+      {
+        "text": "Дмитрий",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
